@@ -1,0 +1,172 @@
+# 사료·축산업 뉴스 큐레이션 - 2026-39
+
+생성 시각(UTC): 2026-09-27T23:43:09.733901+00:00
+
+
+## 카테고리별 지난주 대비 증감
+
+### 국내
+- 스마트팜/축산 기술: 2건 (지난주 0건, +2)
+- 기타: 2건 (지난주 0건, +2)
+- 질병명: 2건 (지난주 0건, +2)
+- 시장/가격 용어: 0건 (지난주 1건, -1)
+
+### 해외
+- 가금 계열화/수직계열화: 2건 (지난주 1건, +1)
+- 질병명: 75건 (지난주 10건, +65)
+- 사료첨가제/항생제 규제: 7건 (지난주 1건, +6)
+- 스마트팜/축산 기술: 27건 (지난주 4건, +23)
+- 사료업계 특화 용어: 25건 (지난주 0건, +25)
+- 축종별 용어: 21건 (지난주 8건, +13)
+- 시장/가격 용어: 49건 (지난주 9건, +40)
+- 정부·제도 용어: 59건 (지난주 4건, +55)
+- 기타: 79건 (지난주 3건, +76)
+- 무역/관세 이슈: 52건 (지난주 7건, +45)
+## 국내
+
+### 경기도 ,  디지털 트윈  활용 방역 의사결정 지원시스템 구축
+- 점수: 1.40 / 언급 2건 (그룹 내 추가 1건 생략)
+
+경기도가 인공지능과 디지털트윈 기술을 활용해 화성·평택 남양만 철새도래지 인근 가금밀집지역의 농가·차량·방역시설을 가상공간에 구현하는 방역 의사결정 지원시스템을 구축한다. 차량 방문기록·소독시간·AI 발생농과의 거리 등 정보를 입력하면 인근 농장별 위험도 변화를 산출해 방역대 설정 등 실질적 방역조치에 대한 의사결정을 지원할 예정이며, 9월 말 시스템 구축 완료 후 겨울철 특별방역기간 현장 검증에 활용할 계획이다. 이 사업은 과학기술정보통신부·한국지능정보사회진흥원(NIA) 주관 '2026년 AI 기반 안전관리 분야 디지털트윈 선도' 사업의 일환으로 진행된다.
+
+원문 링크: https://biz.heraldcorp.com/article/10882807, https://www.nspna.com/country/?mode=view&newsid=829559
+
+###   행복한  종자콩 , 일자리 · 청년 · 미래 농업을 잇다
+- 점수: 1.00 / 언급 1건
+
+한국에코팜은 2012년 설립된 농업회사법인으로, 경북 예천군에 본사를 두고 콩·벼·녹두·팥 등 국내산 농산물의 종자 개발·증식과 계약재배를 통해 원물을 수집한다. 과거에는 농민이 직접 콩을 선별하고 판매해야 했으나, 현재는 회사가 종자콩의 선별·가격 결정·판로를 일괄 담당하며 작업 효율을 높이고 있다. 대표 김영균은 몬산토와의 협업 경험을 바탕으로 채종단지를 조성해 품종 테스트를 진행하고 있다.
+
+원문 링크: https://www.hani.co.kr/arti/area/yeongnam/1279434.html
+
+### 지친 며느리의 명절 바꾼 도넛 한 개와 닭강정
+- 점수: 1.00 / 언급 1건
+
+결혼 32년 차 주부가 시어머니의 제사와 차례 준비로 명절 전날부터 새벽까지 바쁘게 움직이며, 시장과 마트에서 대량의 과일과 고기를 구입해 뭇국과 전을 만들고 과일을 씻는 등 전통 명절 음식 준비에 힘쓰는 모습을 담았다. 특히 30도를 웃도는 날에도 뭇국을 끓이며 땀을 흘리는 등, 음식량을 풍족하게 준비하면서도 다른 집보다 두 배의 노력이 필요한 점에 대한 피로감을 표현한다. 오마이뉴스의 '사는 이야기' 취재를 통해, 개인의 일상 속에서 비롯된 명절 문화와 가족 간의 기대감, 노동에 대해 다루는 내용이다.
+
+원문 링크: https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003270244&PAGE_CD=N0002&CMPT_CD=M0117
+
+### 국내 - 카테고리별 Top N
+
+#### 스마트팜/축산 기술
+
+### 경기도 ,  디지털 트윈  활용 방역 의사결정 지원시스템 구축
+- 점수: 1.40 / 언급 2건 (그룹 내 추가 1건 생략)
+
+경기도는 인공지능과 디지털 트윈 기술을 활용해 조류인플루엔자 방역 의사결정 지원 시스템을 구축하고 있습니다. 이 시스템은 차량 이동 기록과 소독 시간 등의 데이터를 분석하여 농장별 위험도를 산출하며, 화성·평택 남양만 철새도래지 인근을 실증 지역으로 운영합니다.
+
+원문 링크: https://biz.heraldcorp.com/article/10882807, https://www.nspna.com/country/?mode=view&newsid=829559
+
+#### 질병명
+
+### 추석 연휴 시작됐는데 구제역까지 … 송미령 , 충남 방역현장 점검
+- 점수: 0.70 / 언급 1건
+
+송미령 농림축산식품부 장관은 추석 연휴 기간을 맞아 충남도청 재난상황실과 당진시 거점소독시설을 방문해 가축전염병 방역관리 실태와 연휴 대응체계를 점검했다. 최근 해외 야생조류 AI 발생이 전년 대비 106.5% 급증하고 9월 국내에서는 구제역이 13건 발생하면서, 귀성객 이동에 따른 농장 방문 자제와 축산차량 소독 등 강화된 방역 조치가 이뤄지고 있다.
+
+원문 링크: https://biz.heraldcorp.com/article/10884052
+
+## 해외
+
+### Australie .  C  était abominable  : 3 500 euros damende et un séjour carcéral pour du jambon et du fromage
+- 점수: 6.30 / 언급 9건 (그룹 내 추가 8건 생략)
+
+65세 프랑스 은퇴 교수가 2024년 12월 호주 여행 중 짐에 햄과 치즈를 넣어 반입하다 적발돼 3500유로의 벌금과 수감 처분을 받았다. 이후 각국 여행 시 규정을 반드시 확인하겠다고 밝혔다.
+
+원문 링크: https://www.ledauphine.com/insolite/2026/09/24/c-etait-abominable-3-500-euros-d-amende-et-un-sejour-carceral-pour-du-jambon-et-du-fromage, https://www.leprogres.fr/insolite/2026/09/24/c-etait-abominable-3-500-euros-d-amende-et-un-sejour-carceral-pour-du-jambon-et-du-fromage, https://www.estrepublicain.fr/insolite/2026/09/24/c-etait-abominable-3-500-euros-d-amende-et-un-sejour-carceral-pour-du-jambon-et-du-fromage 외 6건
+
+### How a national farm leader is dealing with record diesel prices
+- 점수: 4.80 / 언급 12건 (그룹 내 추가 11건 생략)
+
+(요약 생략 - 요약 생성 실패)
+
+원문 링크: https://knpr.org/npr/2026-09-21/how-a-national-farm-leader-is-dealing-with-record-diesel-prices, https://www.wamc.org/2026-09-21/how-a-national-farm-leader-is-dealing-with-record-diesel-prices, https://www.whqr.org/national/2026-09-21/how-a-national-farm-leader-is-dealing-with-record-diesel-prices 외 9건
+
+### Japan Wagyu cattle : Australian beef producers gain rare access | The Land
+- 점수: 4.50 / 언급 6건 (그룹 내 추가 5건 생략)
+
+호주 소고기 생산자들이 앨텍 리에르트 오스트레일리아(Alltech Lienert Australia) 주관 육우 투어를 통해 일본 와규 산업의 핵심 시설을 7일간 시찰했다. 이번 투어에서는 서방 방문객에게 최초로 개방된 5대 주요 농장을 포함해 번식·비육 농장, 도축·가공장, 유통·소매점, 음식점 등 전 밸류체인을 직접 확인했다. 참가자들은 일본 와규 산업이 품질 관리와 브랜드화 측면에서 상당한 발전을 이뤘음을 현장에서 체감했다고 전했다.
+
+원문 링크: https://www.theland.com.au/story/9354254/japan-wagyu-cattle-australian-beef-producers-gain-rare-access/, https://www.northqueenslandregister.com.au/story/9354254/japan-wagyu-cattle-australian-beef-producers-gain-rare-access/, https://www.queenslandcountrylife.com.au/story/9354254/japan-wagyu-cattle-australian-beef-producers-gain-rare-access/ 외 3건
+
+### 해외 - 카테고리별 Top N
+
+#### 질병명
+
+### Focar de pestă porcină africană într - o fermă din Buzău : 5 . 720 de porci vor fi sacrificați
+- 점수: 2.40 / 언급 3건 (그룹 내 추가 2건 생략)
+
+루마니아 부주우 주 한 돼지농장에서 아프리카 돼지 구역병(ASF) 발생이 확인되어 5,720두의 돼지가 살처분 대상으로 지정되었다. 정부는 농장의 전파 차단과 살충 처리를 위해 즉각적인 방역 조치에 나섰다.
+
+원문 링크: https://www.stiripesurse.ro/focar-de-pesta-porcina-africana-intr-o-ferma-din-buzau-5720-de-porci-vor-fi-sacrificati_3923125, https://business24.ro/pesta-porcina-africana/focar-pesta-porcina-africana-ferma-buzau-sacrificare-porci-1668418, https://business24.ro/pesta-porcina-africana/focar-pesta-porcina-africana-ferma-buzau-sacrificare-porci-1668419
+
+#### 정부·제도 용어
+
+### Business . Scoop » Practical Changes In New Dairy Code Of Welfare Strengthen Reputation
+- 점수: 2.10 / 언급 3건 (그룹 내 추가 2건 생략)
+
+(요약 생략 - 요약 생성 실패)
+
+원문 링크: https://business.scoop.co.nz/2026/09/23/practical-changes-in-new-dairy-code-of-welfare-strengthen-reputation/, https://www.scoop.co.nz/stories/PA2609/S00248/practical-changes-in-new-dairy-code-of-welfare-strengthen-reputation.htm, https://livenews.co.nz/2026/09/23/practical-changes-in-new-dairy-code-of-welfare-strengthen-reputation/
+
+#### 무역/관세 이슈
+
+### Australie .  C  était abominable  : 3 500 euros damende et un séjour carcéral pour du jambon et du fromage
+- 점수: 6.30 / 언급 9건 (그룹 내 추가 8건 생략)
+
+(요약 생략 - 요약 생성 실패)
+
+원문 링크: https://www.ledauphine.com/insolite/2026/09/24/c-etait-abominable-3-500-euros-d-amende-et-un-sejour-carceral-pour-du-jambon-et-du-fromage, https://www.leprogres.fr/insolite/2026/09/24/c-etait-abominable-3-500-euros-d-amende-et-un-sejour-carceral-pour-du-jambon-et-du-fromage, https://www.estrepublicain.fr/insolite/2026/09/24/c-etait-abominable-3-500-euros-d-amende-et-un-sejour-carceral-pour-du-jambon-et-du-fromage 외 6건
+
+#### 시장/가격 용어
+
+### How a national farm leader is dealing with record diesel prices
+- 점수: 4.80 / 언급 12건 (그룹 내 추가 11건 생략)
+
+존 보이 주(John Boyd Jr.) 부남부 버지마이어 주의 4세 농부는 갑작스러운 디젤 가격 상승으로 수확 시즌 중인 트랙터 보충에 약 1,000달러가 들고 있으며, 이는 1년 전 대비 2배에 육박한다. AAA 자료에 따르면 전국 평균 디젤 가격은 6.51달러를 넘어섰고, 이는 이란과의 전쟁이라는 지정학적 리스크가 농업 비용에 미치는 파장으로, 농업인들은 이를 감내해야 하는 새로운 경제적 부담으로 삼고 있다.
+
+원문 링크: https://knpr.org/npr/2026-09-21/how-a-national-farm-leader-is-dealing-with-record-diesel-prices, https://www.wamc.org/2026-09-21/how-a-national-farm-leader-is-dealing-with-record-diesel-prices, https://www.whqr.org/national/2026-09-21/how-a-national-farm-leader-is-dealing-with-record-diesel-prices 외 9건
+
+#### 사료업계 특화 용어
+
+### Expert tips and advice on how to set up an on - farm feedlot | The Land
+- 점수: 3.50 / 언급 5건 (그룹 내 추가 4건 생략)
+
+Dr. Paul Cusack(Australian Livestock Production Services principals, Charles Sturt University adjunct professor)은 피드lotfeeding이 목장 사료 부족기 특히 더운 계절에 비록 경작지가 어려워도 양을 완성할 수 있는 유연한 해결책이라고 강조하며, 잘 설계되고 운영되는 피드lot이 성공적 결과를 가져올 수 있다는 조언을 내놓았다.
+
+원문 링크: https://www.theland.com.au/story/9330136/expert-tips-and-advice-on-how-to-set-up-an-on-farm-feedlot/, https://www.stockjournal.com.au/story/9330136/expert-tips-and-advice-on-how-to-set-up-an-on-farm-feedlot/, https://www.farmweekly.com.au/story/9330136/expert-tips-and-advice-on-how-to-set-up-an-on-farm-feedlot/ 외 2건
+
+#### 축종별 용어
+
+### Carmistin The Food Company crește producția de alimente organice , prin deschiderea unei noi ferme de pui de carne BIO , la Săhăteni
+- 점수: 2.80 / 언급 4건 (그룹 내 추가 3건 생략)
+
+카리스틴 더 푸드 컴퍼니는 루마니아 부주아 주 사하텐 시에 위치한 12개의 이동식 사육장을 갖춘 유기농 닭고기 농장을 새롭게 가동하며, 유기농 알레르기 생산 확대 전략의 일환으로 800만 유로를 투자했다. 이번 농장은 2023년 루마니아 최초의 유기농 닭고기 농장을 오lt 주 레레아스카 시에 연 운영한 이후 세 번째 설립으로, 닭들이 하루 중 거의 대부분 시간을 외부에서 보낼 수 있도록 설계되어 있으며, 카리스틴은 유기농 사료부터 가공까지 전 과정을 자체적으로 관리하는 수직 통합 모델을 운영하고 있다.
+
+원문 링크: https://www.mediafax.ro/comunicate/carmistin-the-food-company-creste-productia-de-alimente-organice-prin-deschiderea-unei-noi-ferme-de-pui-de-carne-bio-la-sahateni-comunicat-23813196, https://www.bursa.ro/carmistin-the-food-company-creste-productia-de-alimente-organice-prin-deschiderea-unei-noi-ferme-de-pui-de-carne-bio-la-sahateni-64963068, https://www.forbes.ro/carmistin-deschide-la-sahateni-a-treia-ferma-de-pui-de-carne-bio-522493 외 1건
+
+#### 스마트팜/축산 기술
+
+### Synexis , LLC and Patterson Veterinary Collaborate to offer DHP Technology to Animal Health Professionals Nationwide
+- 점수: 2.80 / 언급 4건 (그룹 내 추가 3건 생략)
+
+(요약 생략 - 요약 생성 실패)
+
+원문 링크: https://www.finanznachrichten.de/nachrichten-2026-09/69668758-synexis-llc-and-patterson-veterinary-collaborate-to-offer-dhp-technology-to-animal-health-professionals-nationwide-200.htm, https://www.pr-inside.com/synexis-llc-and-patterson-veterinary-collaborate-to-offer-dhp-r-technology-r5226806.htm, http://www.tennesseedaily.com/news/279328647/synexis-llc-and-patterson-veterinary-collaborate-to-offer-dhpr-technology-to-animal-health-professionals-nationwide 외 1건
+
+#### 사료첨가제/항생제 규제
+
+### Global Veterinary Drugs Market to Reach USD 53 . 05 Billion by 2034 at 6 . 44 % CAGR as Animal Disease Prevention and Pet Healthcare Spending Rise , Says Maximize Market Research
+- 점수: 1.40 / 언급 2건 (그룹 내 추가 1건 생략)
+
+Maximize Market Research에 따르면 글로벌 수의약품 시장은 2025년 기준 약 305억 4천만 달러 규모로 평가되며, 2026년부터 2034년까지 연평균 6.44%의 성장률(CAGR)을 기록하며 약 530억 5천만 달러에 이를 것으로 전망된다. 이번 성장의 주요 요인으로는 가축 질병 예방 수요 증가와 반려동물 헬스케어 관련 지출 확대가 꼽히고 있다. 수의약품은 질병 예방, 감염 치료, 통증 및 염증 관리, 기생충 방제 등을 통해 동물 건강을 유지하는 데 활용된다.
+
+원문 링크: http://www.prnewswire.com/news-releases/global-veterinary-drugs-market-to-reach-usd-53-05-billion-by-2034-at-6-44-cagr-as-animal-disease-prevention-and-pet-healthcare-spending-rise-says-maximize-market-research-302886084.html, https://www.finanznachrichten.de/nachrichten-2026-09/69648933-maximize-market-research-pvt-ltd-global-veterinary-drugs-market-to-reach-usd-53-05-billion-by-2034-at-6-44-cagr-as-animal-disease-prevention-and-p-008.htm
+
+#### 가금 계열화/수직계열화
+
+### 老乡鸡崛起 ： 中式快餐之王
+- 점수: 0.70 / 언급 1건
+
+安徽합처리에 본거지인 중식속도이자체 '老乡鸡'는 1.8만 탄 평방미터 규모의 자체 농장과 400탄지의 표준화 사육기지를 운영해 매일 수백만 마리의 육계와 달걀을 공급한다. 이를 통해 가맹점 2천 곳에 신선하고 안전한 재료를 직접 공급하며, 자본시장의 IPO 일정에 많은 관심을 보이지 않는 태도를 보이고 있다.
+
+원문 링크: https://finance.sina.com.cn/tech/roll/2026-09-24/doc-iniswvxm0579543.shtml
