@@ -1,0 +1,707 @@
+{
+  "generated_at": "2026-10-04T23:17:59.025000+00:00",
+  "domestic": [
+    {
+      "issue_score": 2.1,
+      "mention_count": 3,
+      "raw_mention_count": 3,
+      "titles": [
+        "인천시의회 오현식 의원 , 강화 축산농가 현안 청취 … 사료공장 · 축분처리 지원 논의 : 연합시민의소리",
+        "인천시의회 오현식 의원 , 강화 축산농가 현안 청취 … 사료공장 · 축분처리 지원 논의 : 연합시민의소리",
+        "오현식 인천시의원 , 강화 축산농가 현장 의견 청취 … 지원방안 논의"
+      ],
+      "urls": [
+        "https://cunews.net/detail.php?number=172806&thread=22r03r01%20style=",
+        "https://cunews.net/detail.php?number=172806&thread=22r03r01",
+        "https://womannews.net/detail.php?number=456403&thread=22r03r01%20style="
+      ],
+      "press_list": [
+        "cunews.net",
+        "womannews.net"
+      ],
+      "cross_axis_partner_url": null,
+      "cross_axis_partner": null,
+      "generated_title": "인천시의원 오현식, 강화 축산농가 현안 청취… 사료공장·축분처리 지원 논의",
+      "summary": "인천시의회 오현식 의원은 강화 지역 축산농가를 대상으로 현안 사항을 청취하며 사료공장 설립 및 축분 처리 지원 방안에 대해 논의했다. 이번 현안 청취를 통해 농가들의 실질적인 어려움을 파악하고, 지원 정책 마련을 위한 기초 자료를 수집한 것으로 보인다.",
+      "summary_skipped_reason": null
+    },
+    {
+      "issue_score": 1.0,
+      "mention_count": 1,
+      "raw_mention_count": 1,
+      "titles": [
+        "가축전염병  사료부터 차단 … 동물유래 원료 병원체 검사 의무화 추진"
+      ],
+      "urls": [
+        "http://inews24.com/view/2011335"
+      ],
+      "press_list": [
+        "inews24.com"
+      ],
+      "cross_axis_partner_url": null,
+      "cross_axis_partner": null,
+      "generated_title": "가축전염병 차단 위해 동물유래 사료 원료 병원체 검사 의무화",
+      "summary": "더불어민주당 송옥주 국회의원이 발의한 '사료관리법' 일부개정법률안은 급여 대상 동물과 동종의 단백질 성분으로 제조한 사료 원료 및 남은 음식물로 만든 원료의 사용을 원칙적으로 제한하고, 대통령련으로 정하는 동물유래 사료 원료를 제조·수입하는 사업자가 ASF·FMD·HPAI·뉴캐슬병 등 지정 병원체 검사를 의무 받도록 한다. 검사를 받지 않은 원료는 유통이 제한되며, 농림축산식품부 장관이 추가로 지정한 방역이 필요한 병원체도 검사 대상에 포함된다.",
+      "summary_skipped_reason": null
+    },
+    {
+      "issue_score": 1.0,
+      "mention_count": 1,
+      "raw_mention_count": 1,
+      "titles": [
+        "  육계 가격 내렸지만 … 비용 부담 여전  "
+      ],
+      "urls": [
+        "https://biz.heraldcorp.com/article/10891639"
+      ],
+      "press_list": [
+        "biz.heraldcorp.com"
+      ],
+      "cross_axis_partner_url": null,
+      "cross_axis_partner": null,
+      "generated_title": "육계 가격 하락에도 치킨 가격 요지부동…정부·업계 간 갈등 심화",
+      "summary": "최근 육계 가격이 17% 하락세를 보이는 등 공급이 안정화되었음에도 프랜차이즈 치킨업체들의 메뉴 가격 인하는 미진한 점에 대해 이재명 대통령이 SNS에 공유하며 가격 점검을 예고했다. 업계는 2년여간 가격 인상을 자제해 왔으며, 육계 외 비용 상승과 세무조사 등의 압박에도 불구하고 즉각적인 가격 인하가 어렵다는 입장을 내비쳤다.",
+      "summary_skipped_reason": null
+    }
+  ],
+  "international": [
+    {
+      "issue_score": 11.2,
+      "mention_count": 16,
+      "raw_mention_count": 16,
+      "titles": [
+        "Egg prices have tumbled since Trump returned to office . Here why",
+        "Egg prices have tumbled since Trump returned to office . Here why",
+        "Egg prices have tumbled since Trump returned to office . Here why",
+        "Egg prices have tumbled since Trump returned to office . Here why",
+        "Egg prices have tumbled since Trump returned to office . Here why",
+        "Egg prices have tumbled since Trump returned to office . Here why",
+        "Egg prices have tumbled since Trump returned to office . Here why",
+        "Egg prices have tumbled since Trump returned to office . Here why",
+        "Egg prices have tumbled since Trump returned to office . Here why",
+        "Egg prices have tumbled since Trump returned to office . Here why",
+        "Egg prices have tumbled since Trump returned to office . Here why",
+        "Egg prices have tumbled since Trump returned to office . Here why",
+        "Egg prices have tumbled since Trump returned to office . Here why",
+        "Egg prices have tumbled since Trump returned to office . Here why",
+        "Egg prices have tumbled since Trump returned to office . Here why",
+        "Why egg prices have tumbled since Trump returned to office : NPR"
+      ],
+      "urls": [
+        "https://www.ypradio.org/npr-news/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+        "https://www.kawc.org/npr-news/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+        "https://www.northcountrypublicradio.org/news/npr/nx-s1-5978076/egg-prices-have-tumbled-since-trump-returned-to-office-here-s-why",
+        "https://www.wvik.org/npr-top-stories/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+        "https://www.publicradioeast.org/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+        "https://www.wgcu.org/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+        "https://www.whqr.org/national/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+        "https://www.aspenpublicradio.org/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+        "https://www.krcu.org/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+        "https://www.kwit.org/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+        "https://www.kzyx.org/npr-news/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+        "https://www.wcsufm.org/latest-from-npr/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+        "https://www.kenw.org/npr-news/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+        "https://www.ijpr.org/npr-news/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+        "https://www.redriverradio.org/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+        "https://www.npr.org/transcripts/nx-s1-5978076"
+      ],
+      "press_list": [
+        "aspenpublicradio.org",
+        "ijpr.org",
+        "kawc.org",
+        "kenw.org",
+        "krcu.org",
+        "kwit.org",
+        "kzyx.org",
+        "northcountrypublicradio.org",
+        "npr.org",
+        "publicradioeast.org",
+        "redriverradio.org",
+        "wcsufm.org",
+        "wgcu.org",
+        "whqr.org",
+        "wvik.org",
+        "ypradio.org"
+      ],
+      "cross_axis_partner_url": null,
+      "cross_axis_partner": null,
+      "generated_title": "트럼프 취임 이후 달걀 가격 절반 이상 하락…바이든·부건 전 대통령 비난",
+      "summary": "트럼프 대통령은 취임 후 달걀 가격이 50% 이상 떨어졌다며 전직 대통렐 바이든과 조지 부건을 비난해 왔다. 연방 통계에 따르면, 2025년 1월 1다스 평균 4.95달러였던 달걀 가격은 8월 2.27달러로 하락했지만, 가격 하락의 정확한 원인에 대해서는 기사 본문이 잘리려는 흐름으로 확인되지 않았다.",
+      "summary_skipped_reason": null
+    },
+    {
+      "issue_score": 10.1,
+      "mention_count": 14,
+      "raw_mention_count": 14,
+      "titles": [
+        "Japón abre su mercado a la carne : qué oportunidad genera para el norte santafesino",
+        "Argentina exportará carne vacuna a Japón por primera vez tras dos décadas",
+        "Japón abrió su mercado a la carne vacuna argentina tras dos décadas de negociaciones",
+        "Japón abre su mercado a la carne bovina de todo el territorio argentino",
+        "Japón vuelve a abrir su mercado a la carne argentina después de 20 años",
+        "Japón vuelve a comprar carne vacuna argentina y amplía el acceso exportador",
+        "Histórico : después de 20 años , Japón vuelve a comprar carne argentina de todo el país y no solo de la Patagonia",
+        "Japón vuelve a importar carne vacuna argentina después de 20 años",
+        "Carne argentina en Japón : el acuerdo sanitario que abre un mercado de USD 3 . 000 millones",
+        "Después de 20 años , Japón habilita el ingreso de carne bovina de todo el territorio argentino | ON24",
+        "  Acuerdo histórico : Caputo anunció la apertura total del mercado de Japón para la carne bovina argentina después de 20 años",
+        "Se anunció la apertura de Japón para la carne vacuna argentina de todo el territorio nacional",
+        "Argentina anunció la apertura total del mercado de Japón para la carne bovina",
+        "Exportación histórica : Argentina volverá a enviar carne vacuna a Japón después de 20 años - El Gobierno nacional confirmó la apertura del mercado asiático para cortes bovinos tras acordar los requisitos sanitarios . El sector ganadero celebró la med..."
+      ],
+      "urls": [
+        "https://sinmordaza.com/noticia/520463-japon-abre-su-mercado-a-la-carne-que-oportunidad-genera-para-el-norte-santafesino.html",
+        "https://www.elsol.com.ar/el-pais/argentina-exportara-carne-vacuna-a-japon-por-primera-vez-tras-dos-decadas/",
+        "http://www.eldia.com/politica-y-economia/japon-abrio-su-mercado-a-la-carne-vacuna-argentina-tras-dos-decadas-de-negociaciones-politica-y-economia_1790769480",
+        "https://www.lacapital.com.ar/agro/japon-abre-su-mercado-la-carne-bovina-todo-el-territorio-argentino-n10284124.html",
+        "https://www.diariopanorama.com/noticia/568190/japon-vuelve-abrir-mercado-carne-argentina-despues-20-anos",
+        "https://elintransigente.com/2026/10/japon-carne-vacuna-argentina/",
+        "https://www.infocampo.com.ar/historico-despues-de-20-anos-japon-vuelve-a-comprar-carne-argentina-de-todo-el-pais-y-no-solo-de-la-patagonia/",
+        "https://www.diariouno.com.ar/agro/japon-vuelve-importar-carne-vacuna-argentina-despues-20-anos-n1602349",
+        "https://www.impulsobaires.com.ar/nota/326215/carne-argentina-en-japon-el-acuerdo-sanitario-que-abre-un-mercado-de-usd-3-000-millones/",
+        "https://www.on24.com.ar/economia/despues-de-20-anos-japon-habilita-el-ingreso-de-carne-bovina-de-todo-el-territorio-argentino/",
+        "https://www.clarin.com/rural/acuerdo-historico-caputo-anuncio-apertura-total-mercado-japon-carne-bovina-argentina_0_EICEkJLEOn.html",
+        "https://www.aimdigital.com.ar/produccion/se-anunci-la-apertura-de-japn-para-la-carne-vacuna-argentina-de-todo-el-territorio-nacional.htm",
+        "https://eldebate.com.ar/argentina-anuncio-la-apertura-total-del-mercado-de-japon-para-la-carne-bovina/",
+        "https://www.elliberal.com.ar/nota/93300/2026/09/exportacion-historica--argentina-volvera-a-enviar-carne-vacuna-a-japon-despues-de-20-anos"
+      ],
+      "press_list": [
+        "aimdigital.com.ar",
+        "clarin.com",
+        "diariopanorama.com",
+        "diariouno.com.ar",
+        "eldebate.com.ar",
+        "eldia.com",
+        "elintransigente.com",
+        "elliberal.com.ar",
+        "elsol.com.ar",
+        "impulsobaires.com.ar",
+        "infocampo.com.ar",
+        "lacapital.com.ar",
+        "on24.com.ar",
+        "sinmordaza.com"
+      ],
+      "cross_axis_partner_url": null,
+      "cross_axis_partner": null,
+      "generated_title": "일본, 20년 만에 아르헨티나 전역의 소고기 수출 허용…역사적 협정 체결",
+      "summary": "아르헨티나와 일본 간에 ‘afoso(홍역) 백신 접종 지역’에서 생산된 소고기 및 혀의 수출 요구 사항에 대한 협정이 체결되었으로, 이에 따라 일본은 20년 만에 아르헨티나 전역의 소고기 수출을 허용하게 되었습니다. 경제부총리 Luis Caputo는 이를 ‘역사적 협정’이라 평가했으며, 일본은 연간 30억 달러 규모의 고급 육류를 수입하는 주요 시장으로, 아르헨티나 수출에 있어 중요한 기회로 평가됩니다. 협정은 총 12단계로 구성된 절차의 마지막 단계를 완료한 것으로, 아르헨티나 정부는 2006년 최초 제기한 수출 요구 사항이 드디어 실현했다고 밝혔습니다.",
+      "summary_skipped_reason": null
+    },
+    {
+      "issue_score": 4.9,
+      "mention_count": 7,
+      "raw_mention_count": 7,
+      "titles": [
+        "女夾帶2包陸製肉品入境 分同事吃光還拍片PO網 ... 警逮2女送辦 | ETtoday社會新聞",
+        "從中國攜肉品返台PO網 2女到案說明防檢署將裁處 | 社會",
+        "從中國攜肉品返台PO網 2女到案說明防檢署將裁處 | 社會",
+        "帶中國肉乾 、 鴨舌回台 ！ 她改口 「 在夜市買的 」 警打臉逮人 肉品流向曝光 | 社會 | 三立新聞網 SETN . COM",
+        "友人帶大陸豬肉脯返台 ？ 她拍片笑 「 20萬擦肩而過 」 防檢署追查 | 生活新聞 | 生活",
+        "帶中國豬肉乾 、 鴨舌返台 … 拍片炫耀 ： 擦肩20萬 ！ 政府找上門了 | 社會 | 三立新聞網 SETN . COM",
+        "女拍片稱帶 「 大陸豬肉脯 」 返台 農業部追查貼文者 ： 屬實罰20萬 | ETtoday生活新聞"
+      ],
+      "urls": [
+        "https://www.ettoday.net/news/20261001/3247106.htm",
+        "https://www.cna.com.tw:443/news/asoc/202610010339.aspx",
+        "https://www.cna.com.tw/news/asoc/202610010339.aspx",
+        "https://www.setn.com/news/1915692",
+        "https://udn.com/news/story/7266/9785821",
+        "https://www.setn.com/news/1915496",
+        "https://www.ettoday.net/news/20260930/3246452.htm"
+      ],
+      "press_list": [
+        "cna.com.tw",
+        "cna.com.tw:443",
+        "ettoday.net",
+        "setn.com",
+        "udn.com"
+      ],
+      "cross_axis_partner_url": null,
+      "cross_axis_partner": null,
+      "generated_title": "中국산肉품을 비치입국한 2명의 여성, 행정처분 예정",
+      "summary": "한 여성이 중국에서 방문 중인 친구가 인입한 대략 2종류의 중국산 육류 가공품을 휴대품에 숨겨 타이완에 입국한 사건이 소셜미디어에서 논란을 일으키자, 관련 게시물을 올린 여성과 실제 입국한 여성 등 2명이 조사에 협조하고 있다. 당국은 입국 당시 휴대품 검열을 통과했으나, 이후 동료 직원에게 나눠주어 이미 사라진 것으로 파악됐으며, 사건이 확인되는 대로 행정처분을 진행할 예정이다.",
+      "summary_skipped_reason": null
+    }
+  ],
+  "domestic_by_category": {
+    "사료업계 특화 용어": [
+      {
+        "issue_score": 2.1,
+        "mention_count": 3,
+        "raw_mention_count": 3,
+        "titles": [
+          "인천시의회 오현식 의원 , 강화 축산농가 현안 청취 … 사료공장 · 축분처리 지원 논의 : 연합시민의소리",
+          "인천시의회 오현식 의원 , 강화 축산농가 현안 청취 … 사료공장 · 축분처리 지원 논의 : 연합시민의소리",
+          "오현식 인천시의원 , 강화 축산농가 현장 의견 청취 … 지원방안 논의"
+        ],
+        "urls": [
+          "https://cunews.net/detail.php?number=172806&thread=22r03r01%20style=",
+          "https://cunews.net/detail.php?number=172806&thread=22r03r01",
+          "https://womannews.net/detail.php?number=456403&thread=22r03r01%20style="
+        ],
+        "press_list": [
+          "cunews.net",
+          "womannews.net"
+        ],
+        "cross_axis_partner_url": null,
+        "cross_axis_partner": null,
+        "category": "사료업계 특화 용어",
+        "generated_title": "인천시의원 오현식, 강화 축산농가 현안 청취…사료공장·축분처리 지원 논의",
+        "summary": "인천시의회 오현식 의원은 강화 지역 축산농가를 대상으로 현안 청취회를 열어 사료공장 설립 및 축분 처리 지원 방안에 대해 논의했다. 농가들의 현장 의견을 수렴하여 향후 지원 정책 마련에 반영할 예정이다.",
+        "summary_skipped_reason": null
+      }
+    ],
+    "시장/가격 용어": [
+      {
+        "issue_score": 1.0,
+        "mention_count": 1,
+        "raw_mention_count": 1,
+        "titles": [
+          "농축산물 물가 1 % 내렸지만 … 추석 수요에 축산물은 3 . 7 % 올라"
+        ],
+        "urls": [
+          "https://www.etoday.co.kr/news/view/2631795"
+        ],
+        "press_list": [
+          "etoday.co.kr"
+        ],
+        "cross_axis_partner_url": null,
+        "cross_axis_partner": null,
+        "category": "시장/가격 용어",
+        "generated_title": "추석 수요에도 축산물 물가 3.7% 상승…농산물은 4% 하락",
+        "summary": "9월 농축산물 소비자물가는 전년 동월 대비 1.0% 하락했지만, 농산물은 양호한 작황으로 4.0% 하락한 반면 축산물은 추석 성수기 수요와 도축 마릿수 감소 영향으로 3.7% 상승하며 흐름이 갈렸다. 농림축산식품부는 추석 성수품 공급을 평소 1.6배 확대하고 대규모 할인 공급에 협력해 농산물 물가 안정에 기여한 것으로 평가했다.",
+        "summary_skipped_reason": null
+      }
+    ],
+    "축종별 용어": [
+      {
+        "issue_score": 1.0,
+        "mention_count": 1,
+        "raw_mention_count": 1,
+        "titles": [
+          "  육계 가격 내렸지만 … 비용 부담 여전  "
+        ],
+        "urls": [
+          "https://biz.heraldcorp.com/article/10891639"
+        ],
+        "press_list": [
+          "biz.heraldcorp.com"
+        ],
+        "cross_axis_partner_url": null,
+        "cross_axis_partner": null,
+        "category": "축종별 용어",
+        "generated_title": "육계 가격 하락에도 치킨 가격 요지부동…정부 점검 예정",
+        "summary": "최근 육계 가격이 하락세를 보이고 있음에도 불구, 프랜차이즈 치킨업체들의 메뉴 가격은 크게 인하되지 않고 있어 정부의 점검에 부딪힐 전망이다. 이재명 대통령은 SNS에 치킨 가격 관련 기사를 공유하며 \"한 번 점검해 보겠다\"고 밝혔으며, 업계는 세무조사 및 가격점검에 우려를 표하고 있다. 육계 외 비용 상승과 최근 2년간 가격 인상 자제로 인해 즉각적인 가격 인하가 어렵다는 입장이다.",
+        "summary_skipped_reason": null
+      }
+    ],
+    "스마트팜/축산 기술": [
+      {
+        "issue_score": 0.4,
+        "mention_count": 1,
+        "raw_mention_count": 1,
+        "titles": [
+          "농업직 공무원  팀장즈 , AI로 폭우 · 농산물값 감시 시스템 만들다"
+        ],
+        "urls": [
+          "https://www.hani.co.kr/arti/area/chungcheong/1279794.html"
+        ],
+        "press_list": [
+          "hani.co.kr"
+        ],
+        "cross_axis_partner_url": null,
+        "cross_axis_partner": null,
+        "category": "스마트팜/축산 기술",
+        "generated_title": "충남도 농축산국, AI 기반 농업재해 및 농산물 가격 모니터링 시스템 개발",
+        "summary": "충남도 농축산국의 팀장급 공무원 3명이 생성형 AI와 챗지피티를 활용해 '농업재해 통합 관제 시스템(AgriBoard)'과 '농산물 수급·가격 통합 모니터링 시스템(AgriMarket)'을 직접 개발해 운영에 투입했다. 이 시스템들은 호우 상황 실시간 모니터링과 농산물 가격 동향 파악을 지원하며, 기존에는 CCTV 영상을 수동으로 확인하던 업무를 자동화한다.",
+        "summary_skipped_reason": null
+      }
+    ],
+    "정부·제도 용어": [
+      {
+        "issue_score": 0.4,
+        "mention_count": 1,
+        "raw_mention_count": 1,
+        "titles": [
+          "  농사짓고 건축행위  제주 초지 불법 전용  몸살  "
+        ],
+        "urls": [
+          "http://www.ihalla.com/article.php?aid=1790607600790993073"
+        ],
+        "press_list": [
+          "ihalla.com"
+        ],
+        "cross_axis_partner_url": null,
+        "cross_axis_partner": null,
+        "category": "정부·제도 용어",
+        "generated_title": "제주 초지 불법 전용·농사·건축 행위, 5년간 42건·183.9㎢ 피해…원상복구 이행률 48.5%에 그쳐",
+        "summary": "최근 5년간(2022년~9월 말) 제주지역에서 발생한 초지 불법 전용 사례는 42건(제주시 25, 서귀포시 17)으로, 피해 면적은 183.9㎢(제주시 79.7㎢, 서귀포시 104.2㎢) 규모다. 원상복구 명령이 내려진 35건 중 실제 이행된 경우는 17건(48.5%)에 불과하며, 초지를 농지로 전용하거나 건축 등의 불법행위가 이어지면서 원상복구가 사실상 불가능한 상황으로 지적되고 있다. 제주시는 10~11월 두 달간 초지관리 실태조사를 실시하며, '초지법' 제24조에 따라 목적 외 사용 및 불법전용이 확인될 경우 원상복구 명령 및 사법기관 고발 등 강력한 조치에 나설 예정이다.",
+        "summary_skipped_reason": null
+      }
+    ]
+  },
+  "international_by_category": {
+    "질병명": [
+      {
+        "issue_score": 1.4,
+        "mention_count": 2,
+        "raw_mention_count": 2,
+        "titles": [
+          "Business . Scoop » H5 Bird Flu Has Reached Our Shores , Here Is What You Need To Know",
+          "H5 Bird Flu Has Reached Our Shores , Here Is What You Need To Know"
+        ],
+        "urls": [
+          "https://business.scoop.co.nz/2026/09/29/h5-bird-flu-has-reached-our-shores-here-is-what-you-need-to-know/",
+          "https://www.scoop.co.nz/stories/SC2609/S00027/h5-bird-flu-has-reached-our-shores-here-is-what-you-need-to-know.htm"
+        ],
+        "press_list": [
+          "business.scoop.co.nz",
+          "scoop.co.nz"
+        ],
+        "cross_axis_partner_url": null,
+        "cross_axis_partner": null,
+        "category": "질병명",
+        "generated_title": "뉴질랜드에 H5 조류인플루엔자 유입…산업·커뮤니티 대응 웹세미나 개최",
+        "summary": "H5 조류인플루엔자가 뉴질랜드(Aotearoa)에 상륙했다는 평가가 확산되며, Tauranga Moana Biosecurity Capital(TMBC)과 Te Tira Whakamātaki(TTW)가 2026년 10월 15일 온라인 웹세미나를 공동 개최해 대응 방안과 커뮤니티 참여 방법을 안내할 예정입니다. 웹세미나는 조류인플루엔자 확산 억제와 가뭄·홍수 등 기후 변화가 복합적으로 작용하는 상황에서 양계·수산·관광 산업의 지속 가능한 복구와 재해 복구 기반 강화를 위한 정책적 과제를 논의할 예정입니다.",
+        "summary_skipped_reason": null
+      }
+    ],
+    "시장/가격 용어": [
+      {
+        "issue_score": 11.2,
+        "mention_count": 16,
+        "raw_mention_count": 16,
+        "titles": [
+          "Egg prices have tumbled since Trump returned to office . Here why",
+          "Egg prices have tumbled since Trump returned to office . Here why",
+          "Egg prices have tumbled since Trump returned to office . Here why",
+          "Egg prices have tumbled since Trump returned to office . Here why",
+          "Egg prices have tumbled since Trump returned to office . Here why",
+          "Egg prices have tumbled since Trump returned to office . Here why",
+          "Egg prices have tumbled since Trump returned to office . Here why",
+          "Egg prices have tumbled since Trump returned to office . Here why",
+          "Egg prices have tumbled since Trump returned to office . Here why",
+          "Egg prices have tumbled since Trump returned to office . Here why",
+          "Egg prices have tumbled since Trump returned to office . Here why",
+          "Egg prices have tumbled since Trump returned to office . Here why",
+          "Egg prices have tumbled since Trump returned to office . Here why",
+          "Egg prices have tumbled since Trump returned to office . Here why",
+          "Egg prices have tumbled since Trump returned to office . Here why",
+          "Why egg prices have tumbled since Trump returned to office : NPR"
+        ],
+        "urls": [
+          "https://www.ypradio.org/npr-news/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+          "https://www.kawc.org/npr-news/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+          "https://www.northcountrypublicradio.org/news/npr/nx-s1-5978076/egg-prices-have-tumbled-since-trump-returned-to-office-here-s-why",
+          "https://www.wvik.org/npr-top-stories/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+          "https://www.publicradioeast.org/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+          "https://www.wgcu.org/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+          "https://www.whqr.org/national/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+          "https://www.aspenpublicradio.org/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+          "https://www.krcu.org/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+          "https://www.kwit.org/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+          "https://www.kzyx.org/npr-news/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+          "https://www.wcsufm.org/latest-from-npr/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+          "https://www.kenw.org/npr-news/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+          "https://www.ijpr.org/npr-news/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+          "https://www.redriverradio.org/2026-10-01/egg-prices-have-tumbled-since-trump-returned-to-office-heres-why",
+          "https://www.npr.org/transcripts/nx-s1-5978076"
+        ],
+        "press_list": [
+          "aspenpublicradio.org",
+          "ijpr.org",
+          "kawc.org",
+          "kenw.org",
+          "krcu.org",
+          "kwit.org",
+          "kzyx.org",
+          "northcountrypublicradio.org",
+          "npr.org",
+          "publicradioeast.org",
+          "redriverradio.org",
+          "wcsufm.org",
+          "wgcu.org",
+          "whqr.org",
+          "wvik.org",
+          "ypradio.org"
+        ],
+        "cross_axis_partner_url": null,
+        "cross_axis_partner": null,
+        "category": "시장/가격 용어",
+        "generated_title": "트럼프 취임 후 달걀 가격 절반 이상 하락…정책 개입과 기후 요인 가운데 인과관계 논란",
+        "summary": "트럼프 대통령은 취임 후 달걀 1다스 가격이 4.95달러에서 2.27달러로 절반 이상 떨어진 것을 두고 바이든 전 대통령을 비난했다. 기후 문제나 병충해 등의 요인이 가격 하락에 영향을 미쳤을 가능성이 있으나, 트럼프 정부의 정책 개입과의 인과관계에 대해서은 평가가 엇갈리고 있다. NPR 보도에 따르면 일부 전문가들은 정책 변화가 가격 안정화에 기여했다는 견해를 내비치고 있다.",
+        "summary_skipped_reason": null
+      }
+    ],
+    "무역/관세 이슈": [
+      {
+        "issue_score": 10.1,
+        "mention_count": 14,
+        "raw_mention_count": 14,
+        "titles": [
+          "Japón abre su mercado a la carne : qué oportunidad genera para el norte santafesino",
+          "Argentina exportará carne vacuna a Japón por primera vez tras dos décadas",
+          "Japón abrió su mercado a la carne vacuna argentina tras dos décadas de negociaciones",
+          "Japón abre su mercado a la carne bovina de todo el territorio argentino",
+          "Japón vuelve a abrir su mercado a la carne argentina después de 20 años",
+          "Japón vuelve a comprar carne vacuna argentina y amplía el acceso exportador",
+          "Histórico : después de 20 años , Japón vuelve a comprar carne argentina de todo el país y no solo de la Patagonia",
+          "Japón vuelve a importar carne vacuna argentina después de 20 años",
+          "Carne argentina en Japón : el acuerdo sanitario que abre un mercado de USD 3 . 000 millones",
+          "Después de 20 años , Japón habilita el ingreso de carne bovina de todo el territorio argentino | ON24",
+          "  Acuerdo histórico : Caputo anunció la apertura total del mercado de Japón para la carne bovina argentina después de 20 años",
+          "Se anunció la apertura de Japón para la carne vacuna argentina de todo el territorio nacional",
+          "Argentina anunció la apertura total del mercado de Japón para la carne bovina",
+          "Exportación histórica : Argentina volverá a enviar carne vacuna a Japón después de 20 años - El Gobierno nacional confirmó la apertura del mercado asiático para cortes bovinos tras acordar los requisitos sanitarios . El sector ganadero celebró la med..."
+        ],
+        "urls": [
+          "https://sinmordaza.com/noticia/520463-japon-abre-su-mercado-a-la-carne-que-oportunidad-genera-para-el-norte-santafesino.html",
+          "https://www.elsol.com.ar/el-pais/argentina-exportara-carne-vacuna-a-japon-por-primera-vez-tras-dos-decadas/",
+          "http://www.eldia.com/politica-y-economia/japon-abrio-su-mercado-a-la-carne-vacuna-argentina-tras-dos-decadas-de-negociaciones-politica-y-economia_1790769480",
+          "https://www.lacapital.com.ar/agro/japon-abre-su-mercado-la-carne-bovina-todo-el-territorio-argentino-n10284124.html",
+          "https://www.diariopanorama.com/noticia/568190/japon-vuelve-abrir-mercado-carne-argentina-despues-20-anos",
+          "https://elintransigente.com/2026/10/japon-carne-vacuna-argentina/",
+          "https://www.infocampo.com.ar/historico-despues-de-20-anos-japon-vuelve-a-comprar-carne-argentina-de-todo-el-pais-y-no-solo-de-la-patagonia/",
+          "https://www.diariouno.com.ar/agro/japon-vuelve-importar-carne-vacuna-argentina-despues-20-anos-n1602349",
+          "https://www.impulsobaires.com.ar/nota/326215/carne-argentina-en-japon-el-acuerdo-sanitario-que-abre-un-mercado-de-usd-3-000-millones/",
+          "https://www.on24.com.ar/economia/despues-de-20-anos-japon-habilita-el-ingreso-de-carne-bovina-de-todo-el-territorio-argentino/",
+          "https://www.clarin.com/rural/acuerdo-historico-caputo-anuncio-apertura-total-mercado-japon-carne-bovina-argentina_0_EICEkJLEOn.html",
+          "https://www.aimdigital.com.ar/produccion/se-anunci-la-apertura-de-japn-para-la-carne-vacuna-argentina-de-todo-el-territorio-nacional.htm",
+          "https://eldebate.com.ar/argentina-anuncio-la-apertura-total-del-mercado-de-japon-para-la-carne-bovina/",
+          "https://www.elliberal.com.ar/nota/93300/2026/09/exportacion-historica--argentina-volvera-a-enviar-carne-vacuna-a-japon-despues-de-20-anos"
+        ],
+        "press_list": [
+          "aimdigital.com.ar",
+          "clarin.com",
+          "diariopanorama.com",
+          "diariouno.com.ar",
+          "eldebate.com.ar",
+          "eldia.com",
+          "elintransigente.com",
+          "elliberal.com.ar",
+          "elsol.com.ar",
+          "impulsobaires.com.ar",
+          "infocampo.com.ar",
+          "lacapital.com.ar",
+          "on24.com.ar",
+          "sinmordaza.com"
+        ],
+        "cross_axis_partner_url": null,
+        "cross_axis_partner": null,
+        "category": "무역/관세 이슈",
+        "generated_title": "일본, 20년 만에 아르헨티나 전역의 소고기 수출 허용…역사적 협정 체결",
+        "summary": "아르헨티나 정부가 일본과 협정을 체결해 20년 만에 아르헨티나 전역에서 생산된 소고기 및 혀 제품의 수출을 허용했다. 이번 협정은 2024년 시작된 협상을 통해 마지막 단계까지 완료된 것으로, 아프토사열병 예방 접종을 실시한 지역을 대상으로 하며, 일본은 연간 30억 달러 규모의 고품질 소고기를 수입한다. 수도원(Senasa)와 아르헨티나 농림어업부(SAGYP)가 공동으로 관리하는 이 지역은 전체 생산의 약 90%를 차지하며, 특히 산타페 주와 북부 지역에 대규모 수출 기회를 제공할 전망이다.",
+        "summary_skipped_reason": null
+      }
+    ],
+    "정부·제도 용어": [
+      {
+        "issue_score": 2.8,
+        "mention_count": 4,
+        "raw_mention_count": 4,
+        "titles": [
+          "Hatsun Agro Product Ltd . Partners with Government of Odisha and State Bank of India to Launch  Go - Dhan  to Empower Dairy Farmers",
+          "Hatsun Agro Product Ltd . Partners with Government of Odisha and State Bank of India to Launch  Go - Dhan  to Empower Dairy Farmers",
+          "Hatsun Agro Product Ltd . Partners with Government of Odisha and State Bank of India to Launch  Go - Dhan  to Empower Dairy Farmers",
+          "Hatsun Agro Product Ltd . Partners with Government of Odisha and State Bank of India to Launch  Go - Dhan  to Empower Dairy Farmers"
+        ],
+        "urls": [
+          "http://www.calcuttanews.net/news/279340139/hatsun-agro-product-ltd-partners-with-government-of-odisha-and-state-bank-of-india-to-launch-go-dhan-to-empower-dairy-farmers",
+          "http://www.bangladeshsun.com/news/279340044/hatsun-agro-product-ltd-partners-with-government-of-odisha-and-state-bank-of-india-to-launch-go-dhan-to-empower-dairy-farmers",
+          "http://www.laosnews.net/news/279340044/hatsun-agro-product-ltd-partners-with-government-of-odisha-and-state-bank-of-india-to-launch-go-dhan-to-empower-dairy-farmers",
+          "http://www.indiagazette.com/news/279340139/hatsun-agro-product-ltd-partners-with-government-of-odisha-and-state-bank-of-india-to-launch-go-dhan-to-empower-dairy-farmers"
+        ],
+        "press_list": [
+          "bangladeshsun.com",
+          "calcuttanews.net",
+          "indiagazette.com",
+          "laosnews.net"
+        ],
+        "cross_axis_partner_url": null,
+        "cross_axis_partner": null,
+        "category": "정부·제도 용어",
+        "generated_title": "민간 최대 유제품 기업 하츠운, 정부·은행과 협력해 '고덴' 사업으로 오딧슈 dairy 농가 지원",
+        "summary": "인도 최대의 민간 유제품 기업인 Hatsun Agro Product Ltd.가 오딧슈 주 정부와 국가은행(State Bank of India)과 협력해, dairy 농가의 금융 지원 및 정부 지원금 접근성, 최신 유농 기술 도입을 촉진하는 'Go-Dhan' 이니셔티브를 출범했다. 이날 오딧슈 주 뷰라누타라(OAUT) auditorium에서 개척식이 열렸으며, 오딧슈 주 어업부처장을 비롯한 정부 및 금융, 유제 분야 관계자들이 참석했다.",
+        "summary_skipped_reason": null
+      }
+    ],
+    "사료업계 특화 용어": [
+      {
+        "issue_score": 4.9,
+        "mention_count": 7,
+        "raw_mention_count": 7,
+        "titles": [
+          "Piece by piece : Giving a century - old Hinsdale grain elevator a second life",
+          "Piece by piece : Giving a century - old Hinsdale grain elevator a second life",
+          "Piece by piece : Giving a century - old Hinsdale grain elevator a second life",
+          "Piece by piece : Giving a century - old Hinsdale grain elevator a second life",
+          "Piece by piece : Giving a century - old Hinsdale grain elevator a second life",
+          "Piece by piece : Giving a century - old Hinsdale grain elevator a second life",
+          "Piece by piece : Giving a century - old Hinsdale grain elevator a second life"
+        ],
+        "urls": [
+          "https://www.krtv.com/news/montana-and-regional-news/piece-by-piece-giving-a-century-old-hinsdale-grain-elevator-a-second-life",
+          "https://www.kbzk.com/news/montana-and-regional-news/piece-by-piece-giving-a-century-old-hinsdale-grain-elevator-a-second-life",
+          "https://www.kxlh.com/news/montana-and-regional-news/piece-by-piece-giving-a-century-old-hinsdale-grain-elevator-a-second-life",
+          "https://www.kpax.com/news/montana-and-regional-news/piece-by-piece-giving-a-century-old-hinsdale-grain-elevator-a-second-life",
+          "https://www.ktvq.com/news/montana-and-regional-news/piece-by-piece-giving-a-century-old-hinsdale-grain-elevator-a-second-life",
+          "https://www.kxlf.com/news/montana-and-regional-news/piece-by-piece-giving-a-century-old-hinsdale-grain-elevator-a-second-life",
+          "https://www.ktvh.com/news/montana-and-regional-news/piece-by-piece-giving-a-century-old-hinsdale-grain-elevator-a-second-life"
+        ],
+        "press_list": [
+          "kbzk.com",
+          "kpax.com",
+          "krtv.com",
+          "ktvh.com",
+          "ktvq.com",
+          "kxlf.com",
+          "kxlh.com"
+        ],
+        "cross_axis_partner_url": null,
+        "cross_axis_partner": null,
+        "category": "사료업계 특화 용어",
+        "generated_title": "몬타나 킨들스퀘어, 100년 된 조립은행 해체하며 재활용 목재 재사용",
+        "summary": "몬타나 킨들스퀘어의 백년 조립은행이 철거크레인이 아닌 손으로 하나하나 해체되며 새 삶을 맞이하고 있다. 폴 반 마터(Paul Van Marter)는 이 조립은행에서 나오는 목재를 wainscoting, 트림, 바닥재, 캐비넷, 울타리 및 돼지 우리 등 다양한 제품으로 재활용하고 있으며, 이 과정은 시간이 많이 소요되는 것으로 알려져 있다.",
+        "summary_skipped_reason": null
+      }
+    ],
+    "축종별 용어": [
+      {
+        "issue_score": 4.2,
+        "mention_count": 6,
+        "raw_mention_count": 6,
+        "titles": [
+          "Waukesha County dairy cattle test positive for EHD ; expert weighs in",
+          "Non - lactating dairy cattle in Waukesha County tested positive for epizootic hemorrhagic disease",
+          "Non - lactating dairy cattle in Waukesha County tested positive for epizootic hemorrhagic disease",
+          "Disease that killed deer in Wisconsin spreads to cattle",
+          "Deer Virus Detected In Waukesha County Dairy Cows",
+          "Viral disease infecting Wisconsin deer now detected in dairy cows"
+        ],
+        "urls": [
+          "https://www.fox6now.com/news/waukesha-county-dairy-cattle-test-positive-ehd-expert-weighs-in",
+          "https://whsm.com/news/2026/09/30/non-lactating-dairy-cattle-in-waukesha-county-tested-positive-for-epizootic-hemorrhagic-disease",
+          "https://wrjn.com/news/2026/09/30/non-lactating-dairy-cattle-in-waukesha-county-tested-positive-for-epizootic-hemorrhagic-disease",
+          "https://www.wisn.com/article/disease-that-killed-deer-in-wisconsin-spreads-to-cattle/73951045",
+          "https://urbanmilwaukee.com/2026/09/30/deer-virus-detected-in-waukesha-county-dairy-cows/",
+          "https://www.ironmountaindailynews.com/news/local-news/2026/10/viral-disease-infecting-wisconsin-deer-now-detected-in-dairy-cows/"
+        ],
+        "press_list": [
+          "fox6now.com",
+          "ironmountaindailynews.com",
+          "urbanmilwaukee.com",
+          "whsm.com",
+          "wisn.com",
+          "wrjn.com"
+        ],
+        "cross_axis_partner_url": null,
+        "cross_axis_partner": null,
+        "category": "축종별 용어",
+        "generated_title": "위스콘신 주 워커샤 카운티 닭새와 소에 확인된 EHD, 인간 및 유제품 안전에는 영향 없어",
+        "summary": "워커샤 카운티의 비유제 성장우에서 에피조틱 혈구병(EHD)이 확인되었으며, 이는 기존에 사슴 무리에서 급속히 퍼지던 질병과 동일한 원인으로, 워커샤 카운티의 약 4천마리 사슴에서 이미 발생한 바 있다. 위스콘신 주 농업무상품부(DATCP)는 EHD가 인간에게는 위험하지 않으며, 대부분의 경우 가축에게는 경미하거나 무증상으로 진행된다고 밝혔다. EHD는 '노이시움'이나 '미드'라 불리는 작은 물파리에 의해 전파되며, 특히 늦여름에서 초가을까지 발생하기 쉬워, 가뭄이나 추울 때까지 지속될 가능성이 있다.",
+        "summary_skipped_reason": null
+      }
+    ],
+    "스마트팜/축산 기술": [
+      {
+        "issue_score": 3.1,
+        "mention_count": 4,
+        "raw_mention_count": 4,
+        "titles": [
+          "World Dairy Expo showcases cutting - edge farm technology in Wisconsin",
+          "World Dairy Expo showcases cutting - edge farm technology in Wisconsin",
+          "World Dairy Expo returns to Madison",
+          "World Dairy Expo is Ready to  Open New Door This Week in Wisconsin"
+        ],
+        "urls": [
+          "https://www.1039wvbo.com/2026/10/01/world-dairy-expo-showcases-cutting-edge-farm-technology-in-wisconsin/",
+          "https://www.fox969.com/2026/10/01/world-dairy-expo-showcases-cutting-edge-farm-technology-in-wisconsin/",
+          "https://www.wmtv15news.com/2026/09/30/world-dairy-expo-returns-madison/",
+          "https://www.q106.com/2026/09/28/world-dairy-expo-is-ready-to-open-new-doors-this-week-in-wisconsin/"
+        ],
+        "press_list": [
+          "1039wvbo.com",
+          "fox969.com",
+          "q106.com",
+          "wmtv15news.com"
+        ],
+        "cross_axis_partner_url": null,
+        "cross_axis_partner": null,
+        "category": "스마트팜/축산 기술",
+        "generated_title": "세계 dairy 박회, Wisconsin 맥시코시티에서 첨단 농업 기술과 교육 프로그램 선보여",
+        "summary": "2026년 세계 Dairy Expo가 Wisconsin 주 맥시코시티 알리언트 에너지 센터에서 10월 2일 금요일까지 개최되며, 농부와 dairy 전문가, 청소년 등이 참여해 최신 농업 기술과 교육 세션, 무역 전시회, 경품 대회 등을 체험할 수 있다. Dairy Farmers of Wisconsin의 Tina Peterson 부장은 이번 행사가 글로벌 무대에서 Wisconsin의 dairy 산업을 알리는 데 중요한 기회가 될 것이라며, 참석자들이 직접 농부들과 교류하며 산업 지식을 쌓을 수 있을 것이라고 전했다.",
+        "summary_skipped_reason": null
+      }
+    ],
+    "사료첨가제/항생제 규제": [
+      {
+        "issue_score": 1.4,
+        "mention_count": 2,
+        "raw_mention_count": 2,
+        "titles": [
+          "動物用藥認明有字號 非法管道買賣恐觸法",
+          "買藥認明有字號 動物用藥才可靠"
+        ],
+        "urls": [
+          "https://n.yam.com/Article/20260930635638",
+          "https://n.yam.com/Article/20261001405758"
+        ],
+        "press_list": [
+          "n.yam.com"
+        ],
+        "cross_axis_partner_url": null,
+        "cross_axis_partner": null,
+        "category": "사료첨가제/항생제 규제",
+        "generated_title": "동물용 의약품 인증 마크 없이 구입 시 법 위반 위험",
+        "summary": "인증 마크가 부착된 정품 동물용 의약품만 안전하게 사용할 수 있으며, 인증 마크가 없는 제품은 비정상적인 유통 경로를 통해 유통될 경우 법적 문제가 발생할 수 있음을 경고한다. 정상적인 인증 마크를 확인하지 않고 구매하면 동물 건강뿐만 아니라 법적 책임까지 대체로 높은 위험이 따른다.",
+        "summary_skipped_reason": null
+      }
+    ],
+    "가금 계열화/수직계열화": [
+      {
+        "issue_score": 0.7,
+        "mention_count": 1,
+        "raw_mention_count": 1,
+        "titles": [
+          "Mengenal Rantai Bisnis Unggas Kanyaka : Dari Peternakan hingga Hatchery"
+        ],
+        "urls": [
+          "https://www.caghaber.com/mengenal-rantai-bisnis-unggas-kanyaka-dari-peternakan-hingga-hatchery/"
+        ],
+        "press_list": [
+          "caghaber.com"
+        ],
+        "cross_axis_partner_url": null,
+        "cross_axis_partner": null,
+        "category": "가금 계열화/수직계열화",
+        "generated_title": "Kanyaka의 계란·육계 공급망 전략 분석: 품종개량부터 유통까지",
+        "summary": "Kanyaka는 계란 및 육계 생산 전반을 아우르는 통합 공급망을 운영하고 있으며, 이는 품종개량·배양·부화(hatchery)·유통 등 다단계로 구성된 것으로 나타났다. GDELT 보고에 따르면, 양계 산업은 단순한 사육을 넘어 풍부한 식량 공급과 농가 수익성을 동시에 높이기 위한 계획적인 관리가 요구되는 복합 생태계로 작동하고 있다.",
+        "summary_skipped_reason": null
+      }
+    ]
+  },
+  "category_distribution": {
+    "국내": {
+      "사료업계 특화 용어": 3,
+      "기타": 2,
+      "시장/가격 용어": 2,
+      "축종별 용어": 2,
+      "스마트팜/축산 기술": 1,
+      "정부·제도 용어": 1
+    },
+    "해외": {
+      "질병명": 60,
+      "시장/가격 용어": 55,
+      "기타": 65,
+      "무역/관세 이슈": 41,
+      "정부·제도 용어": 66,
+      "사료업계 특화 용어": 20,
+      "축종별 용어": 14,
+      "스마트팜/축산 기술": 24,
+      "사료첨가제/항생제 규제": 7,
+      "가금 계열화/수직계열화": 1
+    }
+  },
+  "gdelt_timeline": {},
+  "failed_sources": []
+}
