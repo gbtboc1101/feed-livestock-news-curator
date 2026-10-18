@@ -1,0 +1,514 @@
+{
+  "generated_at": "2026-10-18T16:39:49.247904+00:00",
+  "domestic": [
+    {
+      "issue_score": 1.0,
+      "mention_count": 1,
+      "raw_mention_count": 1,
+      "titles": [
+        "중동發 곡물가 상승에 사료값  불똥 … 밥상물가 위태롭다 [ 농어촌이 미래다 - 그린 라이프 ] "
+      ],
+      "urls": [
+        "https://www.segye.com:443/newsView/20261014527242"
+      ],
+      "press_list": [
+        "segye.com:443"
+      ],
+      "cross_axis_partner_url": null,
+      "cross_axis_partner": null,
+      "generated_title": "중동전쟁 여파로 배합사료 평균 가격 33개월 최고",
+      "summary": "배합사료 평균 가격은 1kg당 648원을 기록하며 33개월 만에 최고치를 찍었고, 이는 2023년 11월(652원) 이후 2년 9개월 동안 가장 높은 수준이다. 우크라전 발발 이후 5개월 연속 상승세를 보이며, 국제 곡물가 17% 상승과 함께 국내 사료비 부담이 증가하고 있다.",
+      "summary_skipped_reason": null
+    }
+  ],
+  "international": [
+    {
+      "issue_score": 39.0,
+      "mention_count": 39,
+      "raw_mention_count": 39,
+      "titles": [
+        " ¿ Qué es la fiebre aftosa , la nueva enfermedad que acecha al ganado de México ? ",
+        "Sonora suspende exportación de ganado a Estados Unidos por posible fiebre aftosa",
+        "Clausuran exportación de ganado entre Sonora y Arizona por aftas en becerros",
+        "Suspenden temporalmente la exportación de ganado de Sonora a EU por sospecha de fiebre aftosa",
+        "México suspende exportación de ganado a EE . UU . por posible caso de fiebre aftosa",
+        "Emiten alerta por posible caso de fiebre aftosa en ganado mexicano",
+        " ¿ Qué es la fiebre aftosa y por qué emiten alerta por casos en ganado mexicano ? ",
+        "Reanudarán exportación de ganado ; descartan fiebre aftosa",
+        "Descartan fiebre aftosa en Sonora ; reanudan exportación de ganadoðŸŽ",
+        "Frontera con EU , en alerta por ganado mexicano",
+        "Suspenden temporalmente exportación de ganado de Sonora a EU",
+        " ¿ Por qué suspendieron la exportación de ganado de Sonora a Estados Unidos ? ",
+        "Sonora suspende exportación de ganado a EUA",
+        "México reanuda el martes exportaciones de ganado a EEUU después de descartar fiebre aftosa - Mundo",
+        "Sonora suspende la exportación de ganado a EU",
+        "Descartan fiebre aftosa en ganado",
+        "Suspenden cruce de ganado en Sonora por revisión sanitaria",
+        "Sonora suspende temporalmente exportación de ganado a EU por caso sospechoso de fiebre aftosa",
+        "Reanudan exportación de ganado a EU por Agua Prieta el 20 de octubre",
+        "Suspenden temporalmente ganaderos exportaciones a EU",
+        "Suspenden exportación de ganado ; temen fiebre aftosa",
+        "Suspenden exportación de ganado ; temen fiebre aftosa",
+        "Reanudarán exportación de ganado por Agua Prieta , Sonora , el 20 de octubre , no es fiebre aftosa",
+        " ¿ Qué es la fiebre aftosa ? Razón por la que Estados Unidos suspendió la exportación de ganado , principalmente becerros",
+        "Suspenden exportación de ganado tras detectar lesión en un becerro",
+        "Suspende Sonora exportación a EU ; sospechan fiebre aftosa",
+        "Suspenden temporalmente exportación de ganado de Sonora a EU por sospecha de fiebre aftosa",
+        "Suspende Sonora exportación a EU ; sospechan fiebre aftosa",
+        "Sonora suspende exportación de ganado a EU",
+        "Suspende temporalmente Sonora exportaciones de ganado a EU por revisión sanitaria",
+        "Suspenden temporalmente exportación de ganado sonorense por sospecha sanitaria",
+        "Por sospecha de fiebre aftosa detienen temporalmente exportación de ganado a Estados Unidos",
+        "Aftosa en ganado de Sonora no afecta a Chihuahua",
+        "Aftosa en ganado de Sonora no afecta a Chihuahua",
+        "Suspenden temporalmente ganaderos exportaciones a EU",
+        "Detectan afta en un becerro de Sonora y suspenden temporalmente exportación a EU ; Sader activa protocolos",
+        "Suspenden la exportación de ganado de Sonora a Estados Unidos por posible riesgo sanitario ( 19 : 00 h ) ",
+        "Descartan brote de fiebre aftosa en ganado que ocasionó el freno de las exportaciones en Sonora",
+        "La Capital | Descarta Agricultura Fiebre Aftosa En Bovino En Agua Prieta Sonora"
+      ],
+      "urls": [
+        "https://www.elfinanciero.com.mx/salud/2026/10/16/que-es-la-fiebre-aftosa-la-nueva-enfermedad-que-acecha-al-ganado-de-mexico/",
+        "https://www.sdpnoticias.com/mexico/sonora-suspende-exportacion-de-ganado-a-estados-unidos-por-posible-fiebre-aftosa/",
+        "https://www.excelsior.com.mx/nacional/clausuran-exportacion-ganado-sonora-arizona",
+        "https://tribuna.com.mx/campo/2026/10/16/suspenden-temporalmente-la-exportacion-de-ganado-de-sonora-a-eu-por-sospecha-de-fiebre-aftosa_702923/",
+        "https://aristeguinoticias.com/1610/mexico/mexico-suspende-exportacion-de-ganado-desde-sonora-a-ee-uu-por-posible-caso-de-fiebre-aftosa/",
+        "https://www.eluniversal.com.mx/nacion/emiten-alerta-por-posible-caso-de-fiebre-aftosa-en-ganado-mexicano-esperan-resultados-para-reanudar-exportaciones/",
+        "https://www.elimparcial.com/mexico/2026/10/17/que-es-la-fiebre-aftosa-y-por-que-emiten-alerta-por-casos-en-ganado-mexicano/",
+        "https://www.eldiariodechihuahua.mx/nacional/2026/oct/17/reanudaran-exportacion-de-ganado-descartan-fiebre-aftosa-848918.html",
+        "https://www.tiempo.com.mx/nacional/descartan-fiebre-aftosa-agua-prieta-sonora-reanudan-exportacion-ganado-octubre-2026/",
+        "https://horacero.com.mx/nacional/ganado-alerta-frontera-eu",
+        "https://www.eluniversal.com.mx/estados/suspenden-temporalmente-exportacion-de-ganado-de-sonora-a-eu-hay-sospecha-de-un-caso-de-fiebre-aftosa/",
+        "https://www.tvazteca.com/aztecanoticias/por-que-suspendieron-la-exportacion-ganado-sonora-a-estados-unidos/",
+        "https://www.cuartopoder.mx/nacional/sonora-suspende-exportacion-de-ganado-a-eua/594772",
+        "https://www.abc.com.py/internacionales/2026/10/18/mexico-reanuda-el-martes-exportaciones-de-ganado-a-eeuu-despues-de-descartar-fiebre-aftosa/",
+        "https://www.sinembargo.mx/4889062/mexico-suspende-la-exportacion-de-ganado-a-eu-por-deteccion-de-aftas-en-un-becerro/",
+        "https://pulsoslp.com.mx/nacional/descartan-fiebre-aftosa-en-ganado/2096989",
+        "https://www.expreso.com.mx/noticias/sonora/suspenden-cruce-de-ganado-en-sonora-por-revision-sanitaria/266566",
+        "https://www.elfinanciero.com.mx/estados/2026/10/16/sonora-suspende-temporalmente-exportacion-de-ganado-a-eu-por-caso-sospechoso-de-fiebre-aftosa/",
+        "https://laopcion.com.mx/nacional/reanudan-exportacion-de-ganado-a-eu-por-agua-prieta-el-20-de-octubre-20261017-530141.html",
+        "https://diario.mx/economia/2026/oct/16/suspenden-temporalmente-ganaderos-exportaciones-a-eu-1143757.html",
+        "https://www.razon.com.mx:443/negocios/2026/10/17/suspenden-exportacion-de-ganado-temen-fiebre-aftosa/",
+        "https://www.razon.com.mx/negocios/2026/10/17/suspenden-exportacion-de-ganado-temen-fiebre-aftosa/",
+        "https://www.eluniversal.com.mx/estados/reanudaran-exportacion-de-ganado-por-agua-prieta-sonora-el-20-de-octubre-resultados-de-laboratorio-de-senasica-descartan-fiebre-aftosa/",
+        "https://www.ejecentral.com.mx/nuestro-eje/que-es-la-fiebre-aftosa-razon-por-la-que-estados-unidos-suspendio-la-exportacion-de-ganado-principalmente-becerros",
+        "https://www.meganoticias.mx/cdmx/noticia/suspenden-exportaci%C3%B3n-de-ganado-tras-detectar-lesi%C3%B3n-en-un-becerro/779926",
+        "https://www.tiempo.com.mx/nacional/suspende-sonora-exportacion-a-eu-sospechan-fiebre-aftosa/",
+        "https://www.notigape.com/suspenden-temporalmente-exportacion-de-ganado-de-sonora-a-eu-por-sospecha-de-fiebre-aftosa/298504",
+        "https://puentelibre.mx/nacional/suspende-sonora-exportacion-a-eu-sospechan-fiebre-aftosa/",
+        "https://www.notisistema.com/noticias/sonora-suspende-temporalmente-exportacion-de-ganado-a-eu/",
+        "https://vanguardia.com.mx/noticias/suspende-temporalmente-sonora-exportaciones-de-ganado-a-eu-por-revision-sanitaria-NP24189859",
+        "https://eldiariodesonora.com.mx/nogales/2026/10/16/suspenden-temporalmente-exportacion-ganado-sonorense-sospecha-sanitaria.html",
+        "https://intoleranciadiario.com/articles/nacional/2026/10/16/1059217-por-sospecha-de-fiebre-aftosa-detienen-temporalmente-exportacion-de-ganado-a-estados-unidos.html",
+        "https://diario.mx/estado/2026/oct/17/aftosa-en-ganado-de-sonora-no-afecta-a-chihuahua-1143849.html",
+        "https://www.eldiariodechihuahua.mx/local/2026/oct/17/aftosa-en-ganado-de-sonora-no-afecta-a-chihuahua-848745.html",
+        "https://www.eldiariodechihuahua.mx/economia/2026/oct/16/suspenden-temporalmente-ganaderos-exportaciones-a-eu-848604.html",
+        "https://www.lajornadadeoriente.com.mx/noticias/nacional/detectan-afta-en-un-becerro-de-sonora-y-suspenden-temporalmente-exportacion-a-eu-sader-activa-protocolos/",
+        "https://www.adnsureste.info/suspenden-la-exportacion-de-ganado-de-sonora-a-estados-unidos-por-posible-riesgo-sanitario-1900-h/",
+        "https://www.omnia.com.mx/noticia/446081/descartan-brote-de-fiebre-aftosa-en-ganado-que-ocasiono-el-freno-de-las-exportac",
+        "https://www.lacapital.com.mx/noticia/115522-Descarta_Agricultura_fiebre_aftosa_en_bovino_en_Agua_Prieta_Sonora"
+      ],
+      "press_list": [
+        "abc.com.py",
+        "adnsureste.info",
+        "aristeguinoticias.com",
+        "cuartopoder.mx",
+        "diario.mx",
+        "ejecentral.com.mx",
+        "eldiariodechihuahua.mx",
+        "eldiariodesonora.com.mx",
+        "elfinanciero.com.mx",
+        "elimparcial.com",
+        "eluniversal.com.mx",
+        "excelsior.com.mx",
+        "expreso.com.mx",
+        "horacero.com.mx",
+        "intoleranciadiario.com",
+        "lacapital.com.mx",
+        "lajornadadeoriente.com.mx",
+        "laopcion.com.mx",
+        "meganoticias.mx",
+        "notigape.com",
+        "notisistema.com",
+        "omnia.com.mx",
+        "puentelibre.mx",
+        "pulsoslp.com.mx",
+        "razon.com.mx",
+        "razon.com.mx:443",
+        "sdpnoticias.com",
+        "sinembargo.mx",
+        "tiempo.com.mx",
+        "tribuna.com.mx",
+        "tvazteca.com",
+        "vanguardia.com.mx"
+      ],
+      "cross_axis_partner_url": null,
+      "cross_axis_partner": null,
+      "generated_title": "멕시코 소노라주 구제역 의심에 따른 대미 생우 수출 중단, 검사 후 재개",
+      "summary": "멕시코 소노라주에서 소 1마리에게서 수포(afta) 병변이 발견돼 지난 10월 16일 미국으로의 생우 수출이 일시 중단됐다. 지역축산연합(UGRS)의 예방적 조치와 미국 농무부(USDA)의 국경 검역 차단에 이어 실험실 검사에서 구제역(foot-and-mouth disease)이 아닌 것으로 판정돼, 10월 20일 Agua Prieta 국경 검역소를 통해 수출이 재개됐다. 멕시코는 1950년대 이후 구제역 청정국 지위를 유지해 왔으며, 이번 의심 사례는 약 70년 만에 처음 제기된 구제역 경보로 기록됐다.",
+      "summary_skipped_reason": null
+    },
+    {
+      "issue_score": 3.0,
+      "mention_count": 3,
+      "raw_mention_count": 3,
+      "titles": [
+        "Inundaciones provocadas por el niño ponen en riesgo a más de 900 . 000 vacas",
+        "Más de 900 . 000 vacas están en riesgo por la crecida de los ríos en el Litoral",
+        "En Santa Fe y el Litoral , hay más de 900 mil vacas en riesgo ante la crecida de los ríos"
+      ],
+      "urls": [
+        "https://www.iprofesional.com/actualidad/466800-inundaciones-provocadas-por-el-nino-ponen-en-riesgo-a-mas-de-900000-vacas",
+        "https://www.noticiasdelacalle.com.ar/noticias/2026/10/16/201338-mas-de-900000-vacas-estan-en-riesgo-por-la-crecida-de-los-rios-en-el-litoral",
+        "https://www.primerafuente.com.ar/noticias/133033/santa-fe-litoral-hay-mas-900-mil-vacas-riesgo-ante-crecida-rios"
+      ],
+      "press_list": [
+        "iprofesional.com",
+        "noticiasdelacalle.com.ar",
+        "primerafuente.com.ar"
+      ],
+      "cross_axis_partner_url": null,
+      "cross_axis_partner": null,
+      "generated_title": "아르헨티나 리토라(Litoral) 지역 강범람기로 90만 마리 이상의 소가 위태례",
+      "summary": "아르헨티나 산타페주와 리토라 지역을 휩쳐담은 파나마 강과 우루구야이 강의 범람으로 인해 약 90만 마리가 넘는 소가 농초에서 위험에 처해, 재빨리 고지로 대피시키기 위한 작업이 진행 중이다. 이번 재난은 '초슈퍼 니냐오(Super Niño)'와 관련이 있으며, 앞으로 몇 달간 지속될 가능성이 있는 급격한 강상승과 장기간의 집중호우로 인해 농가들의 불안이 커지고 있다.",
+      "summary_skipped_reason": null
+    },
+    {
+      "issue_score": 3.0,
+      "mention_count": 3,
+      "raw_mention_count": 3,
+      "titles": [
+        "NSW Farmers , agri groups united against eID rollout deadline | The Land",
+        "NSW Farmers , agri groups united against eID rollout deadline | Farm Weekly",
+        "NSW Farmers , agri groups united against eID rollout deadline | Stock & Land"
+      ],
+      "urls": [
+        "https://www.theland.com.au/story/9368925/nsw-farmers-agri-groups-united-against-eid-rollout-deadline/",
+        "https://www.farmweekly.com.au/story/9368925/nsw-farmers-agri-groups-united-against-eid-rollout-deadline/",
+        "https://www.stockandland.com.au/story/9368925/nsw-farmers-agri-groups-united-against-eid-rollout-deadline/"
+      ],
+      "press_list": [
+        "farmweekly.com.au",
+        "stockandland.com.au",
+        "theland.com.au"
+      ],
+      "cross_axis_partner_url": null,
+      "cross_axis_partner": null,
+      "generated_title": "호주 농업 단체, 양과 염소 전자식 식별(eID) 의무화 일정 연기 촉구",
+      "summary": "호주 주요 농업 단체들은 양과 염소를 대상으로 한 전자식 식별(eID) 시스템 의무화 일정을 최대 2년 연기하거나 전면 취소할 것을 촉구하며 연대를 이끌고 있다. NSW Farmers는 의무화까지 남은 기간이 3개월 미만으로 짧아진 것을 기준으로 시작일을 2027년 1월 1일에서 2029년 1월 1일로 후연기할 것을 지지하며, WoolProducers Australia 및 서부 목주 농민 협회 등과 함께 대응하고 있다.",
+      "summary_skipped_reason": null
+    }
+  ],
+  "domestic_by_category": {
+    "시장/가격 용어": [
+      {
+        "issue_score": 1.0,
+        "mention_count": 1,
+        "raw_mention_count": 1,
+        "titles": [
+          "중동發 곡물가 상승에 사료값  불똥 … 밥상물가 위태롭다 [ 농어촌이 미래다 - 그린 라이프 ] "
+        ],
+        "urls": [
+          "https://www.segye.com:443/newsView/20261014527242"
+        ],
+        "press_list": [
+          "segye.com:443"
+        ],
+        "cross_axis_partner_url": null,
+        "cross_axis_partner": null,
+        "category": "시장/가격 용어",
+        "generated_title": "중동 전쟁 여파로 국제 곡물가 상승, 국내 배합사료 가격 33개월 만에 최고치 기록",
+        "summary": "지난 8월 배합사료 1kg당 평균 가격은 648원으로 2023년 11월 이후 가장 높았으며, 이는 원료의 약 80%를 수입에 의존하는 구조 때문이다. 사료비가 축산물 사육비의 절반을 차지함에 따라 가격 상승은 축산농가의 경영 부담을 늘리고 소비자 물가에도 상승 압력을 줄 수 있다. 전문가들은 국내 생산 확충과 수입선 다변화를 병행해야 한다고 지적한다.",
+        "summary_skipped_reason": null
+      }
+    ]
+  },
+  "international_by_category": {
+    "질병명": [
+      {
+        "issue_score": 39.0,
+        "mention_count": 39,
+        "raw_mention_count": 39,
+        "titles": [
+          " ¿ Qué es la fiebre aftosa , la nueva enfermedad que acecha al ganado de México ? ",
+          "Sonora suspende exportación de ganado a Estados Unidos por posible fiebre aftosa",
+          "Clausuran exportación de ganado entre Sonora y Arizona por aftas en becerros",
+          "Suspenden temporalmente la exportación de ganado de Sonora a EU por sospecha de fiebre aftosa",
+          "México suspende exportación de ganado a EE . UU . por posible caso de fiebre aftosa",
+          "Emiten alerta por posible caso de fiebre aftosa en ganado mexicano",
+          " ¿ Qué es la fiebre aftosa y por qué emiten alerta por casos en ganado mexicano ? ",
+          "Reanudarán exportación de ganado ; descartan fiebre aftosa",
+          "Descartan fiebre aftosa en Sonora ; reanudan exportación de ganadoðŸŽ",
+          "Frontera con EU , en alerta por ganado mexicano",
+          "Suspenden temporalmente exportación de ganado de Sonora a EU",
+          " ¿ Por qué suspendieron la exportación de ganado de Sonora a Estados Unidos ? ",
+          "Sonora suspende exportación de ganado a EUA",
+          "México reanuda el martes exportaciones de ganado a EEUU después de descartar fiebre aftosa - Mundo",
+          "Sonora suspende la exportación de ganado a EU",
+          "Descartan fiebre aftosa en ganado",
+          "Suspenden cruce de ganado en Sonora por revisión sanitaria",
+          "Sonora suspende temporalmente exportación de ganado a EU por caso sospechoso de fiebre aftosa",
+          "Reanudan exportación de ganado a EU por Agua Prieta el 20 de octubre",
+          "Suspenden temporalmente ganaderos exportaciones a EU",
+          "Suspenden exportación de ganado ; temen fiebre aftosa",
+          "Suspenden exportación de ganado ; temen fiebre aftosa",
+          "Reanudarán exportación de ganado por Agua Prieta , Sonora , el 20 de octubre , no es fiebre aftosa",
+          " ¿ Qué es la fiebre aftosa ? Razón por la que Estados Unidos suspendió la exportación de ganado , principalmente becerros",
+          "Suspenden exportación de ganado tras detectar lesión en un becerro",
+          "Suspende Sonora exportación a EU ; sospechan fiebre aftosa",
+          "Suspenden temporalmente exportación de ganado de Sonora a EU por sospecha de fiebre aftosa",
+          "Suspende Sonora exportación a EU ; sospechan fiebre aftosa",
+          "Sonora suspende exportación de ganado a EU",
+          "Suspende temporalmente Sonora exportaciones de ganado a EU por revisión sanitaria",
+          "Suspenden temporalmente exportación de ganado sonorense por sospecha sanitaria",
+          "Por sospecha de fiebre aftosa detienen temporalmente exportación de ganado a Estados Unidos",
+          "Aftosa en ganado de Sonora no afecta a Chihuahua",
+          "Aftosa en ganado de Sonora no afecta a Chihuahua",
+          "Suspenden temporalmente ganaderos exportaciones a EU",
+          "Detectan afta en un becerro de Sonora y suspenden temporalmente exportación a EU ; Sader activa protocolos",
+          "Suspenden la exportación de ganado de Sonora a Estados Unidos por posible riesgo sanitario ( 19 : 00 h ) ",
+          "Descartan brote de fiebre aftosa en ganado que ocasionó el freno de las exportaciones en Sonora",
+          "La Capital | Descarta Agricultura Fiebre Aftosa En Bovino En Agua Prieta Sonora"
+        ],
+        "urls": [
+          "https://www.elfinanciero.com.mx/salud/2026/10/16/que-es-la-fiebre-aftosa-la-nueva-enfermedad-que-acecha-al-ganado-de-mexico/",
+          "https://www.sdpnoticias.com/mexico/sonora-suspende-exportacion-de-ganado-a-estados-unidos-por-posible-fiebre-aftosa/",
+          "https://www.excelsior.com.mx/nacional/clausuran-exportacion-ganado-sonora-arizona",
+          "https://tribuna.com.mx/campo/2026/10/16/suspenden-temporalmente-la-exportacion-de-ganado-de-sonora-a-eu-por-sospecha-de-fiebre-aftosa_702923/",
+          "https://aristeguinoticias.com/1610/mexico/mexico-suspende-exportacion-de-ganado-desde-sonora-a-ee-uu-por-posible-caso-de-fiebre-aftosa/",
+          "https://www.eluniversal.com.mx/nacion/emiten-alerta-por-posible-caso-de-fiebre-aftosa-en-ganado-mexicano-esperan-resultados-para-reanudar-exportaciones/",
+          "https://www.elimparcial.com/mexico/2026/10/17/que-es-la-fiebre-aftosa-y-por-que-emiten-alerta-por-casos-en-ganado-mexicano/",
+          "https://www.eldiariodechihuahua.mx/nacional/2026/oct/17/reanudaran-exportacion-de-ganado-descartan-fiebre-aftosa-848918.html",
+          "https://www.tiempo.com.mx/nacional/descartan-fiebre-aftosa-agua-prieta-sonora-reanudan-exportacion-ganado-octubre-2026/",
+          "https://horacero.com.mx/nacional/ganado-alerta-frontera-eu",
+          "https://www.eluniversal.com.mx/estados/suspenden-temporalmente-exportacion-de-ganado-de-sonora-a-eu-hay-sospecha-de-un-caso-de-fiebre-aftosa/",
+          "https://www.tvazteca.com/aztecanoticias/por-que-suspendieron-la-exportacion-ganado-sonora-a-estados-unidos/",
+          "https://www.cuartopoder.mx/nacional/sonora-suspende-exportacion-de-ganado-a-eua/594772",
+          "https://www.abc.com.py/internacionales/2026/10/18/mexico-reanuda-el-martes-exportaciones-de-ganado-a-eeuu-despues-de-descartar-fiebre-aftosa/",
+          "https://www.sinembargo.mx/4889062/mexico-suspende-la-exportacion-de-ganado-a-eu-por-deteccion-de-aftas-en-un-becerro/",
+          "https://pulsoslp.com.mx/nacional/descartan-fiebre-aftosa-en-ganado/2096989",
+          "https://www.expreso.com.mx/noticias/sonora/suspenden-cruce-de-ganado-en-sonora-por-revision-sanitaria/266566",
+          "https://www.elfinanciero.com.mx/estados/2026/10/16/sonora-suspende-temporalmente-exportacion-de-ganado-a-eu-por-caso-sospechoso-de-fiebre-aftosa/",
+          "https://laopcion.com.mx/nacional/reanudan-exportacion-de-ganado-a-eu-por-agua-prieta-el-20-de-octubre-20261017-530141.html",
+          "https://diario.mx/economia/2026/oct/16/suspenden-temporalmente-ganaderos-exportaciones-a-eu-1143757.html",
+          "https://www.razon.com.mx:443/negocios/2026/10/17/suspenden-exportacion-de-ganado-temen-fiebre-aftosa/",
+          "https://www.razon.com.mx/negocios/2026/10/17/suspenden-exportacion-de-ganado-temen-fiebre-aftosa/",
+          "https://www.eluniversal.com.mx/estados/reanudaran-exportacion-de-ganado-por-agua-prieta-sonora-el-20-de-octubre-resultados-de-laboratorio-de-senasica-descartan-fiebre-aftosa/",
+          "https://www.ejecentral.com.mx/nuestro-eje/que-es-la-fiebre-aftosa-razon-por-la-que-estados-unidos-suspendio-la-exportacion-de-ganado-principalmente-becerros",
+          "https://www.meganoticias.mx/cdmx/noticia/suspenden-exportaci%C3%B3n-de-ganado-tras-detectar-lesi%C3%B3n-en-un-becerro/779926",
+          "https://www.tiempo.com.mx/nacional/suspende-sonora-exportacion-a-eu-sospechan-fiebre-aftosa/",
+          "https://www.notigape.com/suspenden-temporalmente-exportacion-de-ganado-de-sonora-a-eu-por-sospecha-de-fiebre-aftosa/298504",
+          "https://puentelibre.mx/nacional/suspende-sonora-exportacion-a-eu-sospechan-fiebre-aftosa/",
+          "https://www.notisistema.com/noticias/sonora-suspende-temporalmente-exportacion-de-ganado-a-eu/",
+          "https://vanguardia.com.mx/noticias/suspende-temporalmente-sonora-exportaciones-de-ganado-a-eu-por-revision-sanitaria-NP24189859",
+          "https://eldiariodesonora.com.mx/nogales/2026/10/16/suspenden-temporalmente-exportacion-ganado-sonorense-sospecha-sanitaria.html",
+          "https://intoleranciadiario.com/articles/nacional/2026/10/16/1059217-por-sospecha-de-fiebre-aftosa-detienen-temporalmente-exportacion-de-ganado-a-estados-unidos.html",
+          "https://diario.mx/estado/2026/oct/17/aftosa-en-ganado-de-sonora-no-afecta-a-chihuahua-1143849.html",
+          "https://www.eldiariodechihuahua.mx/local/2026/oct/17/aftosa-en-ganado-de-sonora-no-afecta-a-chihuahua-848745.html",
+          "https://www.eldiariodechihuahua.mx/economia/2026/oct/16/suspenden-temporalmente-ganaderos-exportaciones-a-eu-848604.html",
+          "https://www.lajornadadeoriente.com.mx/noticias/nacional/detectan-afta-en-un-becerro-de-sonora-y-suspenden-temporalmente-exportacion-a-eu-sader-activa-protocolos/",
+          "https://www.adnsureste.info/suspenden-la-exportacion-de-ganado-de-sonora-a-estados-unidos-por-posible-riesgo-sanitario-1900-h/",
+          "https://www.omnia.com.mx/noticia/446081/descartan-brote-de-fiebre-aftosa-en-ganado-que-ocasiono-el-freno-de-las-exportac",
+          "https://www.lacapital.com.mx/noticia/115522-Descarta_Agricultura_fiebre_aftosa_en_bovino_en_Agua_Prieta_Sonora"
+        ],
+        "press_list": [
+          "abc.com.py",
+          "adnsureste.info",
+          "aristeguinoticias.com",
+          "cuartopoder.mx",
+          "diario.mx",
+          "ejecentral.com.mx",
+          "eldiariodechihuahua.mx",
+          "eldiariodesonora.com.mx",
+          "elfinanciero.com.mx",
+          "elimparcial.com",
+          "eluniversal.com.mx",
+          "excelsior.com.mx",
+          "expreso.com.mx",
+          "horacero.com.mx",
+          "intoleranciadiario.com",
+          "lacapital.com.mx",
+          "lajornadadeoriente.com.mx",
+          "laopcion.com.mx",
+          "meganoticias.mx",
+          "notigape.com",
+          "notisistema.com",
+          "omnia.com.mx",
+          "puentelibre.mx",
+          "pulsoslp.com.mx",
+          "razon.com.mx",
+          "razon.com.mx:443",
+          "sdpnoticias.com",
+          "sinembargo.mx",
+          "tiempo.com.mx",
+          "tribuna.com.mx",
+          "tvazteca.com",
+          "vanguardia.com.mx"
+        ],
+        "cross_axis_partner_url": null,
+        "cross_axis_partner": null,
+        "category": "질병명",
+        "generated_title": "멕시코 소노라주, 아프토스열 의심으로 대사 수출 일시 중단",
+        "summary": "2025년 10월 16일 멕시코 노르타 주 소노라에서 가축 검역 중 급성 두통 증상이 발견되며 해당 지역의 미국 대사 수출이 일시 중단되었습니다. 멕시코 농업부(SADER)는 아프토스열 의심 사례에 대응하기 위해 대응 절차를 가동했으며, 미국 농업부(USDA) 역시 아리조나로의 농축산 수출을 차단했습니다. 이후 2025년 10월 20일 세나스카(Senasica)의 진단 결과, 해당 증상이 아프토스열이 아닌 스티드마 papular 소아병증(bovine stomatitis papularis)으로 확인되자 대사 수출이 재개되었습니다.",
+        "summary_skipped_reason": null
+      }
+    ],
+    "정부·제도 용어": [
+      {
+        "issue_score": 2.0,
+        "mention_count": 2,
+        "raw_mention_count": 2,
+        "titles": [
+          "Activa Agricultura protocolo para identificar origen de aftas en becerro en estación cuarentenaria de Agua Prieta",
+          "Activa Agricultura protocolo para identificar origen de aftas en becerro en estación cuarentenaria de Agua Prieta"
+        ],
+        "urls": [
+          "https://www.critica.com.mx/vernoticias.php?artid=119700&mas=1",
+          "https://www.critica.com.mx/vernoticias.php?artid=119700&relacion=critica&mas=9"
+        ],
+        "press_list": [
+          "critica.com.mx"
+        ],
+        "cross_axis_partner_url": null,
+        "cross_axis_partner": null,
+        "category": "정부·제도 용어",
+        "generated_title": "멕시코 농업부, 소노라 아과프리에타 검역소 송아지 구강 병변 발생에 대응 프로토콜 가동",
+        "summary": "멕시코 농업개발부(Secretaría de Agricultura y Desarrollo Rural)는 소노라 주 아과프리에타(Agua Prieta) 검역소에서 입안 병변(aftas)이 발견된 송아지에 대해 Senasica와 멕시코-미국 구제역 및 기타 동물질병 예방 위원회(CPA) 인력을 투입해 검체를 채취했다고 밝혔다. 당국은 채취한 검체를 분석해 병변 원인 병원체를 확인할 예정이며, 현재까지 구체적인 병원체나 질병 확정 여부는 공개되지 않았다.",
+        "summary_skipped_reason": null
+      }
+    ],
+    "스마트팜/축산 기술": [
+      {
+        "issue_score": 3.0,
+        "mention_count": 3,
+        "raw_mention_count": 3,
+        "titles": [
+          "NSW Farmers , agri groups united against eID rollout deadline | The Land",
+          "NSW Farmers , agri groups united against eID rollout deadline | Farm Weekly",
+          "NSW Farmers , agri groups united against eID rollout deadline | Stock & Land"
+        ],
+        "urls": [
+          "https://www.theland.com.au/story/9368925/nsw-farmers-agri-groups-united-against-eid-rollout-deadline/",
+          "https://www.farmweekly.com.au/story/9368925/nsw-farmers-agri-groups-united-against-eid-rollout-deadline/",
+          "https://www.stockandland.com.au/story/9368925/nsw-farmers-agri-groups-united-against-eid-rollout-deadline/"
+        ],
+        "press_list": [
+          "farmweekly.com.au",
+          "stockandland.com.au",
+          "theland.com.au"
+        ],
+        "cross_axis_partner_url": null,
+        "cross_axis_partner": null,
+        "category": "스마트팜/축산 기술",
+        "generated_title": "NSW 농민단체, 양·염소 전자신원조사(eID) 의무화 연기 촉구",
+        "summary": "NSW 농민단체와 주요 농업 단체들이 양·염소 전자신원조사(eID) 의무화 시행을 2027년 1월 1일에서 2029년 1월 1일로 2년 연기하거나 전면 취소할 것을 정부에 요구했다. 이들 단체는 현재 시행까지 3개월이 남지 않은 시점에서 eID 도입이 농가 부담을 초래할 우려가 있어 시행 시점을 늦출 필요가 있다고 주장했다. WoolProducers Australia와 같은 국제 농업 단체들도 이번 촉구에 동참하고 있다.",
+        "summary_skipped_reason": null
+      }
+    ],
+    "사료업계 특화 용어": [
+      {
+        "issue_score": 1.0,
+        "mention_count": 1,
+        "raw_mention_count": 1,
+        "titles": [
+          "Firefighters battle out - of - control blaze at NSW feed mill"
+        ],
+        "urls": [
+          "https://cedarnews.net/newstasks/1075455/firefighters-battle-out-of-control-blaze-nsw/"
+        ],
+        "press_list": [
+          "cedarnews.net"
+        ],
+        "cross_axis_partner_url": null,
+        "cross_axis_partner": null,
+        "category": "사료업계 특화 용어",
+        "generated_title": "뉴사우스웨일즈 사료 공장에서 대형 화재 발생, 소방관들 진화 작업 중",
+        "summary": null,
+        "summary_skipped_reason": "수집 데이터 부족"
+      }
+    ],
+    "무역/관세 이슈": [
+      {
+        "issue_score": 0.7,
+        "mention_count": 1,
+        "raw_mention_count": 1,
+        "titles": [
+          "Marcos did NOT order meat importation ban starting Oct . 12"
+        ],
+        "urls": [
+          "https://verafiles.org/articles/fact-check-marcos-did-not-order-meat-importation-ban-starting-oct-12"
+        ],
+        "press_list": [
+          "verafiles.org"
+        ],
+        "cross_axis_partner_url": null,
+        "cross_axis_partner": null,
+        "category": "무역/관세 이슈",
+        "generated_title": "마르코스 필리핀 대통령 육류 수입 금지 명령, 가짜뉴스로 판명",
+        "summary": "소셜미디어에 유포된 페르디난드 마르코스(Ferdinand Marcos) 대통령의 육류 수입 금지 행정명령 서명 이미지는 가짜뉴스로 확인됐다. 10월 12일 양돈업자 페이스북(Facebook) 그룹에 공유된 해당 게시물은 육류 수입 중단과 생체중(LW) 돼지 가격 인상을 예고했으나, 대통령이 이러한 명령을 내린 사실은 없는 것으로 밝혀졌다.",
+        "summary_skipped_reason": null
+      }
+    ],
+    "축종별 용어": [
+      {
+        "issue_score": 1.0,
+        "mention_count": 1,
+        "raw_mention_count": 1,
+        "titles": [
+          "Bradford County Sow Farm Achieves a 100 % Gilt Farrowing Rate Week Twice"
+        ],
+        "urls": [
+          "https://www.lancasterfarming.com/farming-news/livestock/bradford-county-sow-farm-achieves-a-100-gilt-farrowing-rate-week-twice/article_ae38ec30-fed6-4abd-b21d-812620ecb3bd.html"
+        ],
+        "press_list": [
+          "lancasterfarming.com"
+        ],
+        "cross_axis_partner_url": null,
+        "cross_axis_partner": null,
+        "category": "축종별 용어",
+        "generated_title": "펜실베이니아 길벗 돼지농장, 길벗 배출율 100% 달성 주간 2회 기록",
+        "summary": "Pine Hill 돼지농장은 2026년 상반기 기준으로 길벗 배출율 100%를 기록한 주간을 두 차례로 달성했으며, 재무년도 평균은 95.1%를 유지했다. 농장 관리자 Kurtis Page는 팀의 협업과 세부 사항 관리가 성공의 핵심이라며, 배출율 80%에서 90%로 끌어올리는 것은 비교적 쉽다고 하지만 마지막 1~2%를 채우는 것이 어렵다고 설명했다. Pine Hill은 Country View Family Farms가 운영하는 29개 사육농장 중 하나이다.",
+        "summary_skipped_reason": null
+      }
+    ],
+    "시장/가격 용어": [
+      {
+        "issue_score": 1.0,
+        "mention_count": 1,
+        "raw_mention_count": 1,
+        "titles": [
+          "麥寮運動公園啟用暨畜牧產業展 雲林畜牧產值470億居全國首位"
+        ],
+        "urls": [
+          "https://n.yam.com/Article/20261018268891"
+        ],
+        "press_list": [
+          "n.yam.com"
+        ],
+        "cross_axis_partner_url": null,
+        "cross_axis_partner": null,
+        "category": "시장/가격 용어",
+        "generated_title": "맥료 운동공원 개장·축산업 전시회 개최, 윤린 축산 생산액 470억 원 전국 1위",
+        "summary": null,
+        "summary_skipped_reason": "수집 데이터 부족"
+      }
+    ]
+  },
+  "category_distribution": {
+    "국내": {
+      "시장/가격 용어": 1
+    },
+    "해외": {
+      "질병명": 44,
+      "정부·제도 용어": 10,
+      "기타": 3,
+      "스마트팜/축산 기술": 7,
+      "사료업계 특화 용어": 3,
+      "무역/관세 이슈": 1,
+      "축종별 용어": 1,
+      "시장/가격 용어": 1
+    }
+  },
+  "gdelt_timeline": {},
+  "failed_sources": []
+}
