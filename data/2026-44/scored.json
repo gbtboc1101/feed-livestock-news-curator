@@ -1,0 +1,58 @@
+{
+  "generated_at": "2026-11-01T18:44:42.199675+00:00",
+  "domestic": [],
+  "international": [
+    {
+      "issue_score": 0.7,
+      "mention_count": 1,
+      "raw_mention_count": 1,
+      "titles": [
+        "Taiwan Pork"
+      ],
+      "urls": [
+        "https://tribune.net.ph/topic/taiwan-pork"
+      ],
+      "press_list": [
+        "tribune.net.ph"
+      ],
+      "cross_axis_partner_url": null,
+      "cross_axis_partner": null,
+      "generated_title": "대만 돼지고기",
+      "summary": null,
+      "summary_skipped_reason": "수집 데이터 부족"
+    }
+  ],
+  "domestic_by_category": {},
+  "international_by_category": {
+    "무역/관세 이슈": [
+      {
+        "issue_score": 0.7,
+        "mention_count": 1,
+        "raw_mention_count": 1,
+        "titles": [
+          "Taiwan Pork"
+        ],
+        "urls": [
+          "https://tribune.net.ph/topic/taiwan-pork"
+        ],
+        "press_list": [
+          "tribune.net.ph"
+        ],
+        "cross_axis_partner_url": null,
+        "cross_axis_partner": null,
+        "category": "무역/관세 이슈",
+        "generated_title": "대만, 필리핀向 가공돼지고기 수출 확대 노려",
+        "summary": "대만은 필리핀 시장을 겨냥해 가공돼지고기 수출 성장을 모색하고 있다. 고품질 소시지와 돼지고기 저키(jerky) 등을 주력 품목으로 삼으며, 냉동 돼지고기 공급이 제한된 상황을 기회로 활용하는 모습이다. 구체적인 수출 목표나 일정 등 세부 내용은 불분명하다.",
+        "summary_skipped_reason": null
+      }
+    ]
+  },
+  "category_distribution": {
+    "국내": {},
+    "해외": {
+      "무역/관세 이슈": 1
+    }
+  },
+  "gdelt_timeline": {},
+  "failed_sources": []
+}
