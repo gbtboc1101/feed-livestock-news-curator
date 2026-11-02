@@ -16,7 +16,8 @@ import keyword_source
 
 load_dotenv()
 
-NAVER_API_URL = "https://openapi.naver.com/v1/search/news.json"
+# NAVER Developers Center -> NAVER API HUB(NCP API Gateway) 이관(2026-07). HUB 키는 옛 주소에서 401.
+NAVER_API_URL = "https://naverapihub.apigw.ntruss.com/search/v1/news"
 DAYS_BACK = 7  # 최근 N일 이내 기사만
 
 # fallback 키워드. 구글 시트(KEYWORD_SHEET_CSV_URL) 우선, 실패 시 이 리스트 사용.
@@ -101,8 +102,8 @@ def search_naver_news(keyword: str, client_id: str, client_secret: str, start: i
                        session: requests.Session | None = None) -> list[dict]:
     """네이버 뉴스 검색 API 호출 -> 공통 스키마로 변환해 반환."""
     headers = {
-        "X-Naver-Client-Id": client_id,
-        "X-Naver-Client-Secret": client_secret,
+        "X-NCP-APIGW-API-KEY-ID": client_id,
+        "X-NCP-APIGW-API-KEY": client_secret,
     }
 
     params = {

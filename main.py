@@ -139,6 +139,10 @@ def run_collectors(pipeline_start: float) -> tuple[list[dict], dict, list[str]]:
         naver_articles = naver_collector.collect()
         all_articles.extend(naver_articles)
         print(f"[main] 네이버 수집 완료 - {len(naver_articles)}건")
+        if not naver_articles:
+            # 키워드 전체 0건은 인증 오류 등 소스 장애 - 메일에 "국내 이슈 없음"이 아니라 실패로 보이게 함.
+            print("[main] 🔴 조치필요 [MN-17] - 네이버 수집 결과 0건 - 인증/API 장애 의심")
+            failed_sources.append("네이버(0건)")
     except _CollectWatchdogTimeout as e:
         print(f"[main] 🔴 조치필요 [MN-04] - {e} (네이버 진행 중 발동)")
         failed_sources.append("워치독-강제종료(네이버 진행 중)")
@@ -152,6 +156,9 @@ def run_collectors(pipeline_start: float) -> tuple[list[dict], dict, list[str]]:
         gdelt_articles, gdelt_timeline = gdelt_collector.collect(deadline=gdelt_deadline)
         all_articles.extend(gdelt_articles)
         print(f"[main] GDELT 수집 완료 - {len(gdelt_articles)}건")
+        if not gdelt_articles:
+            print("[main] 🔴 조치필요 [MN-18] - GDELT 수집 결과 0건 - API 조절/장애 의심")
+            failed_sources.append("GDELT(0건)")
     except _CollectWatchdogTimeout as e:
         print(f"[main] 🔴 조치필요 [MN-04] - {e} (GDELT 진행 중 발동)")
         failed_sources.append("워치독-강제종료(GDELT 진행 중)")
